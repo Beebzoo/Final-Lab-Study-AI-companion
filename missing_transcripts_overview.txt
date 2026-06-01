@@ -1,0 +1,29 @@
+MISSING TRANSCRIPTS OVERVIEW
+============================================================
+SPSS rows: 190   Word docs: 188
+Participants matched to a transcript: 180
+
+1) SPSS participants WITH NO Word document (10):
+   (transcript cell left blank)
+     - 13
+     - 13333
+     - 14245
+     - 14266
+     - 14710
+     - 15079
+     - 15088
+     - 15199
+     - 15211
+     - 16465
+
+2) Word documents WITH NO matching SPSS participant (3):
+   (not added to the file)
+     - 12466-e2afa135-cab1.docx  (ID 12466)
+     - 15078-f034b06a-2839.docx  (ID 15078)
+     - 16475-9c21c786-d6ab.docx  (ID 16475)
+
+3) Participants with MULTIPLE documents (all concatenated) (4):
+     - ID 13873: 13873-293fe32b-a07c.docx, 13873-daecf372-d781.docx
+     - ID 14272: 14272-a528f38f-867a.docx, 14272-da190175-f20d.docx
+     - ID 19636: 19636-5cbb18d1-3746.docx, 19636-8762ca11-838e.docx
+     - ID 4: 004-852d3d0a-4570.docx, 004-may-11-a8dde4ea-4493.docx, 004.docx

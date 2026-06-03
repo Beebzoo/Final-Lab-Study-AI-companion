@@ -1,0 +1,362 @@
+{
+  "S1_0": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Factual account of professor talk plus inner state (took responsibility, 'it was stressful' with situational context of catching up)."
+  },
+  "S1_1": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Purely factual roommate trash disagreement resolved by rock-paper-scissors, no inner state."
+  },
+  "S1_2": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Medium",
+    "justification": "Parents/struggling-with-classes plus inner reflection on resetting mental state and gratitude."
+  },
+  "S1_3": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task reaction to the AI, not a personal interaction."
+  },
+  "S1_4": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Mediated mother-sister fight, factual with context but no inner state revealed."
+  },
+  "S1_5": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task comment about the AI, not an interaction."
+  },
+  "S1_6": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Factual account of teammates helping with a hard project, found it hard but no real inner-state engagement."
+  },
+  "S1_7": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "Vague stress label with no elaboration or details ('no additional details')."
+  },
+  "S1_8": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Group-project conflict with engaged inner state (frustration, deliberation, reflection on assuming good intent), but stays guarded about the incident."
+  },
+  "S1_9": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task commentary on AI vs human responses, not a personal interaction."
+  },
+  "S1_10": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Family conflict about grandmother and event, factual with detail but no inner state."
+  },
+  "S1_11": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Coworker disagreement, well-detailed but external; 'tense' named without inner elaboration."
+  },
+  "S1_12": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "Brief factual near-late-to-class event, stayed calm, no inner state."
+  },
+  "S1_13": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Medium",
+    "justification": "Friend argument with emotional state ('I was upset') and self-reflection on why he didn't get mad."
+  },
+  "S1_14": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "Brief factual basketball conflict resolved by a shot, no inner state."
+  },
+  "S1_15": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task statement about testing the AI, not a personal interaction."
+  },
+  "S1_16": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Group-project disagreement with inner state (frustration, took a step back) and reflection on handling it calmly."
+  },
+  "S1_17": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "One-line factual customer disagreement, no inner state."
+  },
+  "S1_18": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task plan for using the AI, not a personal interaction."
+  },
+  "S1_19": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Medium",
+    "justification": "One-line factual sister argument, no inner state explored."
+  },
+  "S1_20": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "Brief factual networking situation, stayed focused, no inner state."
+  },
+  "S1_21": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task opinion about AI vs humans, not a personal interaction."
+  },
+  "S1_22": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Group-project conflict; emotion 'frustrating' named but not deeply engaged, leans toward emerging tone."
+  },
+  "S1_23": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Roommate chores dispute described as 'difficult'; brief self-reference to always doing extra chores, lightly engaged."
+  },
+  "S1_24": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Family debate handled calmly, detailed but external with no inner state."
+  },
+  "S1_25": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "One-line factual walking away from a coworker, no inner state."
+  },
+  "S1_26": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "Brief factual friend argument resolved by compromise, no inner state."
+  },
+  "S1_27": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Medium",
+    "justification": "Brief factual family misunderstanding resolved by talking, no inner state."
+  },
+  "S1_28": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "One-line factual spring break planning situation, no inner state."
+  },
+  "S1_29": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Internship teammate conflict, factual with detail (despite typos) but external, no inner state."
+  },
+  "S1_30": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Roommate dishes conflict; 'this annoyed me' names emotion but is not engaged further."
+  },
+  "S1_31": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "High",
+    "justification": "Fighting with boyfriend while traveling; sensitive romantic topic with hesitant tone but emotion only named, tipped up."
+  },
+  "S1_32": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task question back to the prompter, no disclosure."
+  },
+  "S1_33": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "One-line factual road-anger event; 'got angry' is a bare label with no elaboration."
+  },
+  "S1_34": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Detailed factual account of defusing teens at the pool, entirely external."
+  },
+  "S1_35": {
+    "R1": 3,
+    "R2": 5,
+    "topic_sensitivity": "Medium",
+    "justification": "Confronting a friend over betrayal with self-revealing reflection on his own overthinking and worry making it harder."
+  },
+  "S1_36": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Detailed factual road-rage account ending in calling police, external with no inner state."
+  },
+  "S1_37": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Customer-short-on-cash incident; frustration plus genuine inner conflict between what he wanted to say and doing the right thing."
+  },
+  "S1_38": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Detailed factual group-project breakdown, external account with no inner state revealed."
+  },
+  "S1_39": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Logistics of sharing parents' lawn work with brother, factual problem-solving with no inner state."
+  },
+  "S1_40": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "One-line 'stressful interaction at work'; vague label with no elaboration."
+  },
+  "S1_41": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Argued with dad about Gaza; positions stated but no inner state or feeling about it."
+  },
+  "S1_42": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task hypothetical about what he would do, no actual interaction described."
+  },
+  "S1_43": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "Brief factual account of settling brothers' chore fight by rock-paper-scissors, no inner state."
+  },
+  "S1_44": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "Brief factual account of ending a religious argument calmly, no inner state."
+  },
+  "S1_45": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task about hobbies and happy life, not a challenging interaction."
+  },
+  "S1_46": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "States no recent challenging interactions; nothing disclosed."
+  },
+  "S1_47": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Medium",
+    "justification": "Friend gossip conflict described with detail; he stepped in on principle but emotion not engaged, asks for advice."
+  },
+  "S1_48": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Stressing over grades and balancing work/school; emotional state named but not elaborated."
+  },
+  "S1_49": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task critique of the AI companion, not a personal interaction."
+  },
+  "S1_50": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Coworker poster-format disagreement, detailed but external with no inner state."
+  },
+  "S1_51": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Chipotle wrong-order incident with empathy/perspective-taking and self-reflection on disliking being a hassle."
+  },
+  "S1_52": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "One-line factual mention of using AI for a coding assignment, no inner state and barely an interaction."
+  },
+  "S1_53": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "High",
+    "justification": "Death/funeral colliding with an exam deadline; grief context plus implied distress and escalation, sensitive topic tips up."
+  },
+  "S1_54": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task greeting to the AI, no disclosure."
+  },
+  "S1_55": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Manager addressing favoritism rumors, factual workplace handling with no inner state."
+  },
+  "S1_56": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Job interview with unexpected questions answered confidently; external account, confidence stated not explored."
+  },
+  "S1_57": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Roommate chores conflict with genuine inner state (it bugged him, fear of seeming passive-aggressive) and reflection."
+  },
+  "S1_58": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Refuses/dismisses, insults the AI, no personal interaction disclosed."
+  },
+  "S1_59": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Work-numbers stress with engaged inner state (stressing, then reframing that numbers don't affect pay)."
+  }
+}

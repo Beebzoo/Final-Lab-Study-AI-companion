@@ -1,38 +1,38 @@
 {
-  "S2_755": {
-    "R1": 1,
-    "R2": 1,
-    "topic_sensitivity": "Low",
-    "justification": "One-sentence factual account of an academic dispute with no inner state."
-  },
-  "S2_756": {
-    "R1": 1,
-    "R2": 2,
-    "topic_sensitivity": "Low",
-    "justification": "Factual restaurant request with some detail but entirely external, no inner state."
-  },
-  "S2_757": {
-    "R1": 2,
-    "R2": 4,
-    "topic_sensitivity": "Low",
-    "justification": "Engages inner state: felt frustrated, anxious about blaming, awkwardness around a roommate conflict."
-  },
-  "S2_758": {
-    "R1": 2,
-    "R2": 4,
-    "topic_sensitivity": "Low",
-    "justification": "Reveals frustration, snapping, and reflective lesson about honesty and staying calm."
-  },
-  "S2_759": {
-    "R1": 0,
-    "R2": 0,
-    "topic_sensitivity": "None",
-    "justification": "Incoherent fragment, not a describable personal interaction."
-  },
-  "S2_760": {
-    "R1": 1,
-    "R2": 3,
-    "topic_sensitivity": "Low",
-    "justification": "Group-project disagreement with 'a bit stressful' named but not engaged; otherwise external."
-  }
+ "S2_755": {
+  "R1": 1,
+  "R2": 1,
+  "topic_sensitivity": "Low",
+  "justification": "One-sentence factual account of an academic dispute with no inner state."
+ },
+ "S2_756": {
+  "R1": 1,
+  "R2": 2,
+  "topic_sensitivity": "Low",
+  "justification": "Factual restaurant request with some detail but entirely external, no inner state."
+ },
+ "S2_757": {
+  "R1": 2,
+  "R2": 4,
+  "topic_sensitivity": "Low",
+  "justification": "Engages inner state: felt frustrated, anxious about blaming, awkwardness around a roommate conflict."
+ },
+ "S2_758": {
+  "R1": 2,
+  "R2": 4,
+  "topic_sensitivity": "Low",
+  "justification": "Reveals frustration, snapping, and reflective lesson about honesty and staying calm."
+ },
+ "S2_759": {
+  "R1": 0,
+  "R2": 0,
+  "topic_sensitivity": "None",
+  "justification": "Incoherent fragment, not a describable personal interaction."
+ },
+ "S2_760": {
+  "R1": 1,
+  "R2": 2,
+  "topic_sensitivity": "Low",
+  "justification": "Group-project disagreement, 'a bit stressful' vague label not elaborated; reasonably detailed but external -> surface."
+ }
 }

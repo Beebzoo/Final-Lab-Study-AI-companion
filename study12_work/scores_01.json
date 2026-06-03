@@ -1,0 +1,362 @@
+{
+  "S1_60": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Factual account of a stranger telling him to stop fishing and complying; no inner state."
+  },
+  "S1_61": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Factual story about missing a concert presale and a friend helping; no emotional content."
+  },
+  "S1_62": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Describes a hard group project and how it was handled, entirely external; no inner state."
+  },
+  "S1_63": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Factual narrative of a bar incident with a stranger; describes actions but no genuine inner state."
+  },
+  "S1_64": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Factual account of a group member leaving; reasonably detailed but entirely external."
+  },
+  "S1_65": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Work incident with explicit inner state: contemplating quitting and 'almost having a mental breakdown' before composing herself."
+  },
+  "S1_66": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Roommate falling out labeled 'very stressful' but no elaboration; vague label stays at surface."
+  },
+  "S1_67": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Describes handling a misunderstanding calmly; external process only, no inner state."
+  },
+  "S1_68": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Factual account of a topic disagreement resolved by vote; no emotional content."
+  },
+  "S1_69": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "One-sentence factual statement about trouble subleasing; minimal detail, no inner state."
+  },
+  "S1_70": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Factual group-project disagreement resolved by vote; no inner state."
+  },
+  "S1_71": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Describes group members not contributing and how she handled it; entirely external."
+  },
+  "S1_72": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "Denies challenging interaction, only mentions 'stress overall' with no elaboration; near off-task but names a state."
+  },
+  "S1_73": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Medium",
+    "justification": "One-sentence factual account of roommate argument resolved by discussion; no inner state."
+  },
+  "S1_74": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Medium",
+    "justification": "Roommate safety incident with self-reflection on her own ongoing distancing and judgment of the situation."
+  },
+  "S1_75": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Factual account of subleasing trouble and posting ads; no inner state."
+  },
+  "S1_76": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Medium",
+    "justification": "Roommate ruined her belongings; reveals guarded restraint in choosing to leave it alone rather than complain, a brief inner reaction."
+  },
+  "S1_77": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "States no challenging interaction recently; no disclosure."
+  },
+  "S1_78": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Medium",
+    "justification": "Roommate cleaning conflict with stated emotional impact ('it is starting to bother me' and 'made me feel better')."
+  },
+  "S1_79": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Medium",
+    "justification": "Disagreement with sister; reveals her intent and persistence but emotion (the fight) is named not deeply engaged."
+  },
+  "S1_80": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "Fragment naming a friend disagreement with no detail or inner state."
+  },
+  "S1_81": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Describes poor group communication and how she compensates; external only."
+  },
+  "S1_82": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Brief factual account of arguing with a friend over food; no genuine inner state."
+  },
+  "S1_83": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task: declines to engage and critiques the AI rather than describing an interaction."
+  },
+  "S1_84": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Factual group-partner misunderstanding resolved with apologies; no inner state."
+  },
+  "S1_85": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Group communication difficulty resolved by meeting in person; entirely external."
+  },
+  "S1_86": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "High",
+    "justification": "Confronting someone she was dating; reveals self-reflection that she realized she wasn't developing feelings; romantic topic."
+  },
+  "S1_87": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Work understaffing with stated inner state ('I'm tired') but emotion named lightly and brushed off."
+  },
+  "S1_88": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Group project task-division difficulty resolved practically; no inner state."
+  },
+  "S1_89": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Factual account of a friend picking a fight and leaving; describes action, no inner state."
+  },
+  "S1_90": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Medium",
+    "justification": "Financial aid worry; 'worried I may not register on time' names an inner state but it is brief and resolves quickly."
+  },
+  "S1_91": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task: comments on the uncanny valley of the AI rather than describing an interaction."
+  },
+  "S1_92": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Medium",
+    "justification": "One-sentence factual account of a friend fight resolved; no inner state."
+  },
+  "S1_93": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Medium",
+    "justification": "Confronting a friend who ignored her; reveals 'it got to my head,' being upset and getting heated, engaging with her reaction."
+  },
+  "S1_94": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Refuses to respond; no disclosure."
+  },
+  "S1_95": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Factual account of discussing roommate's dog behavior; no inner state."
+  },
+  "S1_96": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Coworker conflict that 'hurt my feelings' and affected her work performance; engages with emotional and behavioral impact."
+  },
+  "S1_97": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Argument with sister over clothes resolved by compromise; external only, no inner state."
+  },
+  "S1_98": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Internship requirement problem labeled 'very challenging' with mild reflection on not foreseeing it; emotion named but lightly engaged."
+  },
+  "S1_99": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Factual account of a customer argument handled by calling a manager; no inner state."
+  },
+  "S1_100": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Roommate disagreement resolved by a meeting; 'made our situation better' is evaluative not inner-state."
+  },
+  "S1_101": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Group members unresponsive; describes her actions to get the project done; entirely external."
+  },
+  "S1_102": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Refuses to respond, doesn't want AI to know about her; no disclosure."
+  },
+  "S1_103": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Group project with unresponsive members labeled 'stressful and frustrating'; emotion named but not elaborated."
+  },
+  "S1_104": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Factual account of addressing a carry-on luggage issue calmly; no inner state."
+  },
+  "S1_105": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Fight with a close friend, currently making amends; describes action but no inner state revealed."
+  },
+  "S1_106": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Medium",
+    "justification": "One-line crude account of telling off a roommate; no inner state or reflection."
+  },
+  "S1_107": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Coach yelling at her; reveals confusion and self-reflection on why the reaction was disproportionate to the play."
+  },
+  "S1_108": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Medium",
+    "justification": "Misunderstanding with mother-in-law over perceived criticism; reveals she felt criticized but emotion lightly engaged before resolution."
+  },
+  "S1_109": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Disagreement over a TV show handled by agreeing to disagree; external only."
+  },
+  "S1_110": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Roommates not communicating making things 'awkward'; an evaluative descriptor, no engaged inner state."
+  },
+  "S1_111": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Rude coworker cursing at her that 'made me uncomfortable'; states emotional impact of the interaction."
+  },
+  "S1_112": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Sorority merch budget crisis; repeatedly engages with stress and self-pressure ('I should have had this figured out,' 'really struggling')."
+  },
+  "S1_113": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Group member not doing work, handled by holding him accountable; entirely external."
+  },
+  "S1_114": {
+    "R1": 3,
+    "R2": 5,
+    "topic_sensitivity": "Medium",
+    "justification": "Reveals private vulnerability: hid the truth from his dad about 100 failed applications and wishes he'd been honest to get support."
+  },
+  "S1_115": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "One-sentence factual account of reminding a group member of deadlines; no inner state."
+  },
+  "S1_116": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Group members not contributing, handled by talking to leader and peer review; states unhappiness only as an action's content, external."
+  },
+  "S1_117": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Group project with non-contributors labeled 'frustrating' tied to grade stakes; emotion named but not deeply explored."
+  },
+  "S1_118": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Group project; reflects on disliking using such a firm tone and why she felt it necessary, self-reflection on her own behavior."
+  },
+  "S1_119": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Group project non-contribution plus self-disclosure that 'I can barely contribute as is,' revealing personal struggle/inadequacy."
+  }
+}

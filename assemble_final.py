@@ -25,7 +25,7 @@ for f in sorted(glob.glob("vr_work/out_*.json")):
 
 def build_vr(pid):
     by = {s[0]: s for s in segs[pid]}
-    return "  ".join(f"{by[i][1]} {by[i][3]}" for i in sorted(sel[pid]) if i in by)
+    return "\n".join(f"{by[i][1]} {by[i][3]}" for i in sorted(sel[pid]) if i in by)
 
 
 # ---- TEXT extraction (participant label == "you") ----
@@ -43,7 +43,7 @@ def build_text(t):
             if msg:
                 out.append(f"{time} {msg}")
         prev = m.end()
-    return "  ".join(out)
+    return "\n".join(out)
 
 
 def classify(t):
@@ -60,23 +60,33 @@ ws = wb.active
 header = [c.value for c in ws[1]]
 tcol = next(i for i, h in enumerate(header, 1) if h and "transcript" in str(h).lower())
 idcol = next(i for i, h in enumerate(header, 1) if str(h).strip().lower() == "id")
+from openpyxl.styles import Alignment
+from openpyxl.utils import get_column_letter
+
 new_i = ws.max_column + 1
 ws.cell(1, new_i, NEWCOL)
+wrap = Alignment(wrap_text=True, vertical="top")
 
 n = {"VR": 0, "TEXT": 0, "BLANK": 0, "OTHER": 0}
 for r in range(2, ws.max_row + 1):
     raw = ws.cell(r, tcol).value
     pid = str(ws.cell(r, idcol).value)
     t = (raw or "").strip()
+    cell = ws.cell(r, new_i)
+    cell.alignment = wrap                       # wrap like the Transcript column
     if not t:
         n["BLANK"] += 1
         continue
     fmt = classify(t)
     n[fmt] += 1
     if fmt == "VR" and pid in sel:
-        ws.cell(r, new_i, build_vr(pid))
+        cell.value = build_vr(pid)
     elif fmt == "TEXT":
-        ws.cell(r, new_i, build_text(t))
+        cell.value = build_text(t)
+
+# match the original Transcript column width
+ws.column_dimensions[get_column_letter(new_i)].width = \
+    ws.column_dimensions[get_column_letter(tcol)].width or 142.5
 
 wb.save(OUT)
 print("wrote", OUT, "| breakdown:", n)

@@ -1,0 +1,362 @@
+{
+  "S3_120": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "One-sentence factual account of a group project with no inner state."
+  },
+  "S3_121": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Describes a parenting situation and asks for advice but reveals no inner state, only an assertion of being right."
+  },
+  "S3_122": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Describes conflict plus genuine self-reflection on getting defensive then reconsidering his friend's needs."
+  },
+  "S3_123": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Detailed external account of negotiating workload at work with no inner state."
+  },
+  "S3_124": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Detailed account of de-escalating a frustrated person, focused on technique with no real inner state."
+  },
+  "S3_125": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Medium",
+    "justification": "Tension with housemates plus an emotional signal (feeling exhausted) though briefly stated."
+  },
+  "S3_126": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Describes a workplace disagreement and characterizes a colleague but reveals no own inner state."
+  },
+  "S3_127": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "One-sentence factual statement about workload with no inner state."
+  },
+  "S3_128": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "High",
+    "justification": "Partner disagreement plus reveals difficulty expressing feelings/concerns, an inner-state signal."
+  },
+  "S3_129": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Describes negotiating dinner plans and compromise, entirely external with no inner state."
+  },
+  "S3_130": {
+    "R1": 3,
+    "R2": 5,
+    "topic_sensitivity": "Low",
+    "justification": "Detailed work conflict plus reveals upset, moral conflict, and feeling it broke his own morals."
+  },
+  "S3_131": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "One-sentence statement of a disagreement with no detail or inner state."
+  },
+  "S3_132": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "States no challenging interactions occurred; not a personal disclosure."
+  },
+  "S3_133": {
+    "R1": 3,
+    "R2": 5,
+    "topic_sensitivity": "High",
+    "justification": "Raw account of an anxiety day with throat closing and crying, emotionally exposed and unpolished."
+  },
+  "S3_134": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Describes giving feedback and reveals her own feeling that it felt really bad to do."
+  },
+  "S3_135": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Medium",
+    "justification": "Stressful morning juggling work and sick toddler with reflection on stress and choosing family, including admitting she lied to her employer."
+  },
+  "S3_136": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "New job adjustment with inner-state reflection on feeling strange to be back at square one and mentally taxed."
+  },
+  "S3_137": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "States no challenging interactions; cannot think of anything."
+  },
+  "S3_138": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Medium",
+    "justification": "Friend cancelling on birthday with explored disappointment and reflection on accepting it."
+  },
+  "S3_139": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Detailed account of a bus driver incident with a stranger, entirely external with no real inner state."
+  },
+  "S3_140": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Restaurant raw-chicken confrontation with reflection on feeling awkward and disliking confrontation."
+  },
+  "S3_141": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Vendor frustration with an emotional label (frustrating) named but not deeply engaged."
+  },
+  "S3_142": {
+    "R1": 3,
+    "R2": 5,
+    "topic_sensitivity": "Medium",
+    "justification": "Caregiving overload and conflict with brother, revealing ongoing stress and a strained estranged relationship."
+  },
+  "S3_143": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Medium",
+    "justification": "Describes social-group jealousy situation factually with no own inner state revealed."
+  },
+  "S3_144": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Coworker disagreement that got heated; mentions cooling down but inner state remains lightly named."
+  },
+  "S3_145": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Mix-up with a friend, resolved factually with no inner state explored."
+  },
+  "S3_146": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Low",
+    "justification": "Brief factual workplace order-conflict with no inner state."
+  },
+  "S3_147": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Describes someone frustrated with him over a non-direct answer, external with no own inner state."
+  },
+  "S3_148": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Project rejection with an emotional label (so disappointed) named but not elaborated."
+  },
+  "S3_149": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task meta-refusal about the prompt itself; not a personal interaction."
+  },
+  "S3_150": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "High",
+    "justification": "Argument with wife plus self-reflective admission that neither of them handled it well."
+  },
+  "S3_151": {
+    "R1": 3,
+    "R2": 5,
+    "topic_sensitivity": "High",
+    "justification": "Frightening unwanted advance reveals her fear about danger of turning men down, personal significance and vulnerability."
+  },
+  "S3_152": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Work-partner argument with the inner-state signal of not being happy carrying the load, lightly stated."
+  },
+  "S3_153": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Work-project stress with emotional labels (stressed, annoyed) named but not explored."
+  },
+  "S3_154": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Off-task refusal to answer the question; no interaction disclosed."
+  },
+  "S3_155": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "High",
+    "justification": "Describes friend's grief/loss/depression and how she helped, but focuses on the friend with little of her own inner state; sensitive topic tips up."
+  },
+  "S3_156": {
+    "R1": 3,
+    "R2": 5,
+    "topic_sensitivity": "High",
+    "justification": "Heated argument over mother's dementia care, revealing she felt very very uncomfortable and the relational rupture with her sister."
+  },
+  "S3_157": {
+    "R1": 3,
+    "R2": 6,
+    "topic_sensitivity": "High",
+    "justification": "Raw account of ex-husband's sudden death and telling her daughters, emotionally exposed and still in shock, unprocessed."
+  },
+  "S3_158": {
+    "R1": 3,
+    "R2": 5,
+    "topic_sensitivity": "Medium",
+    "justification": "Frightening pushy salesman and possible retaliation; reveals being scared and shaken as a woman alone."
+  },
+  "S3_159": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Medium",
+    "justification": "Friend disagreement with reflection on not enjoying it and choosing distance, some inner state engaged."
+  },
+  "S3_160": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Heated car debate with a friend; mentions getting mad but it stays a surface external account."
+  },
+  "S3_161": {
+    "R1": 3,
+    "R2": 5,
+    "topic_sensitivity": "Low",
+    "justification": "Asking boss for hours, revealing nervousness, stammering, and lingering unresolved anxiety about leading her life."
+  },
+  "S3_162": {
+    "R1": 3,
+    "R2": 5,
+    "topic_sensitivity": "High",
+    "justification": "Mother's insensitivity about father's cancer, revealing deep anger, the rupture, and a painful relational pattern."
+  },
+  "S3_163": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Customer-service de-escalation described entirely as external technique with no inner state."
+  },
+  "S3_164": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Coworker disagreement with emotional labels (frustrating, about to blow up) named but not explored."
+  },
+  "S3_165": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Detailed account of a non-contributing group member, entirely external with no inner state."
+  },
+  "S3_166": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "High",
+    "justification": "Relationship disagreement and break described factually with no inner state revealed."
+  },
+  "S3_167": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Friend argument and reconciliation described in external terms with no inner state."
+  },
+  "S3_168": {
+    "R1": 0,
+    "R2": 0,
+    "topic_sensitivity": "None",
+    "justification": "Just 'Thank you'; off-task, no interaction disclosed."
+  },
+  "S3_169": {
+    "R1": 3,
+    "R2": 5,
+    "topic_sensitivity": "High",
+    "justification": "Partner conflict revealing she felt she didn't matter and had to put the relationship on the line, personal significance and vulnerability."
+  },
+  "S3_170": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Medium",
+    "justification": "Family conflict with cousin, reflecting on staying calm and her hurt at how she was spoken to."
+  },
+  "S3_171": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "General reflection on handling grandchildren/strangers as technique; no specific incident or own inner state."
+  },
+  "S3_172": {
+    "R1": 3,
+    "R2": 5,
+    "topic_sensitivity": "High",
+    "justification": "Discovering a dating partner lied; reveals being hurt and the personal meaning behind cutting ties."
+  },
+  "S3_173": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Apartment paperwork ordeal with engaged inner state: feeling misled, frustrated, and filled with anxiety."
+  },
+  "S3_174": {
+    "R1": 1,
+    "R2": 1,
+    "topic_sensitivity": "Medium",
+    "justification": "One-sentence factual account of a sister disagreement with no inner state."
+  },
+  "S3_175": {
+    "R1": 1,
+    "R2": 2,
+    "topic_sensitivity": "Low",
+    "justification": "Routine budget negotiation explicitly described as causing no stress; external with no real inner state."
+  },
+  "S3_176": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Workplace incident with reflection on feeling stressed as a bystander and judging the manager's reaction."
+  },
+  "S3_177": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Low",
+    "justification": "Roommate conflict with self-reflection on being amped up and needing to cool off to avoid yelling back."
+  },
+  "S3_178": {
+    "R1": 2,
+    "R2": 3,
+    "topic_sensitivity": "Low",
+    "justification": "Negative feedback on a self-assessment; mentions it hurt but emotion named rather than explored."
+  },
+  "S3_179": {
+    "R1": 2,
+    "R2": 4,
+    "topic_sensitivity": "Medium",
+    "justification": "Babysitting conflict with son revealing she feels it's all-or-nothing with them and uncertainty about what to do."
+  }
+}

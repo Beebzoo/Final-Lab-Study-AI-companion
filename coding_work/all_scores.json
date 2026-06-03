@@ -1,0 +1,1506 @@
+{
+ "14140": {
+  "R1": 1,
+  "R1_justification": "Detailed factual account of a team presentation losing members and a last-minute handoff (01:44-03:35); only the vague label 'pretty challenging' with no inner-state engagement, stays external and solution-focused.",
+  "R2": 2,
+  "R2_justification": "Situation well elaborated with context but entirely external, no inner state explored.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "01:17 'I actually had a tough situation recently in a team project'"
+ },
+ "14965": {
+  "R1": 3,
+  "R1_justification": "Participant originates genuine fear and uncertainty about reconciling with estranged family ('I don't know how to feel', 'makes me feel uncomfortable', 'I am scared', 01:12-04:12), returning to the fear across turns and revealing personal meaning.",
+  "R2": 5,
+  "R2_justification": "Goes beyond the situation into personal significance and relational consequence (wanting to give them another chance now that grown up), exposed but not fully raw.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "01:12 'We had family problems... they want to meet up, which is kind of challenging for me because I don't know how to feel about it'"
+ },
+ "14719": {
+  "R1": 1,
+  "R1_justification": "Extended complaint about freeloading teammates and group-grading system (00:58-04:52); 'annoying/demotivating' are venting labels with no inner-state engagement, stays external.",
+  "R2": 2,
+  "R2_justification": "Reasonably elaborated external account of the problem and the grading system, no inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:36 'I had a really challenging group project last week'"
+ },
+ "14989": {
+  "R1": 0,
+  "R1_justification": "No challenge disclosed; entirely positive smalltalk about a fun day with a friend, parents' visit and an upcoming presentation, nothing personal or difficult shared.",
+  "R2": 0,
+  "R2_justification": "No disclosure of any challenging interaction.",
+  "topic_sensitivity": "None",
+  "disclosure_start": "none"
+ },
+ "14800": {
+  "R1": 2,
+  "R1_justification": "Factual team-project account, but participant reveals a personal reaction beyond the facts at 02:54 ('I feel great I got recognition... but I don't like it because I have to do another presentation with them'), an inner-state signal about her own feelings.",
+  "R2": 3,
+  "R2_justification": "Emotional reaction named and lightly engaged but not deeply explored; mostly situational.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:37 'I had to do a team project... but nobody did something, so I had to do all the work'"
+ },
+ "14806": {
+  "R1": 1,
+  "R1_justification": "Purely external recount of a disputed referee call in a football match (01:49-03:17); participant explicitly says high emotions are fine and discloses no personal inner state.",
+  "R2": 2,
+  "R2_justification": "Situation described with factual detail but entirely external, no inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "01:49 'disagreement with how the football match went... it must have been penalty'"
+ },
+ "14428": {
+  "R1": 3,
+  "R1_justification": "Participant originates raw self-revelation beyond the incident: 'I was too dumbstruck... couldn't even reply, this is totally not me' and 'I can't get it out of my head... keep me awake at night... 48 hours, why didn't I respond better' (03:49-05:36), exposing personal insecurity and rumination.",
+  "R2": 5,
+  "R2_justification": "Goes beyond the situation into an ongoing personal struggle (rumination, self-doubt about not standing her ground), genuinely personal but not fully unguarded.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:49 'It was pretty much the whole interaction... she gets frustrated really easily... she starts screaming at people and I wasn't sure how to handle that'"
+ },
+ "13366": {
+  "R1": 1,
+  "R1_justification": "Only a brief mention of having had an argument at a spot 'half a year back' (02:54) that he now feels fine about; deflects rather than discloses, almost no detail.",
+  "R2": 1,
+  "R2_justification": "Names a past argument in one sentence with no detail or inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "02:54 'I've had an argument there in the past'"
+ },
+ "11": {
+  "R1": 2,
+  "R1_justification": "Participant originates genuine inner conflict/ambivalence about confronting a housemate over shared purchases ('I don't want to waste my energy', 'I don't want to have a conversation', 'I still don't know if I want to' do the planned activity, 02:04-end), explored across turns.",
+  "R2": 4,
+  "R2_justification": "Engages with inner conflict and reluctance beyond just naming it; the person's avoidance and energy-protection are visible, though it stays about the incident.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:35 'I had a bad conversation with one of my housemates and I didn't like... the way she interacted with me'"
+ },
+ "14674": {
+  "R1": 2,
+  "R1_justification": "Participant originates inner state and a recurring relational struggle: 'I'm very annoyed because it happened so often', 'I cannot talk about it with other friends', and reflects on her own pattern 'in the end I'm the one who says sorry even though she should' (01:49-03:25).",
+  "R2": 4,
+  "R2_justification": "Genuinely engages with the relational dynamic and her own role (always apologizing), beyond merely naming emotion, but stays fairly composed.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "01:49 'my friend was a bit too unfriendly to me... I don't know how I should handle situations like that'"
+ },
+ "14578": {
+  "R1": 3,
+  "R1_justification": "Reflective self-disclosure about wanting to switch studies, entangled with her boyfriend and feeling judged ('I don't want to be the one moving for him', 'people are not my vibe', 'I weigh a lot the opinion of others', business 'worth nothing', 01:46-05:21); borderline moderate/substantial on a sensitive romantic-relationship topic, tipped up.",
+  "R2": 5,
+  "R2_justification": "Reaches personal meaning and relational consequence (identity, insecurity over others' opinions, relationship), substantial though advice-seeking rather than raw.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "01:00 'I was in an argument with my friends because I'm thinking of changing my field of study... I don't feel confident or comfortable'"
+ },
+ "14401": {
+  "R1": 2,
+  "R1_justification": "Participant originates inner state around giving criticism to a friend over a startup video ('felt really hard', 'to bring about the criticism without hurting a friend', 02:01-02:37); some reflection on the difficulty, then pivots to general musing on communication.",
+  "R2": 4,
+  "R2_justification": "Briefly engages with the conflict between honesty and not hurting a friend, person visible beyond facts, but not deeply explored.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "01:02 'I've been building a startup with a friend... I had to bring about some criticism which felt really hard'"
+ },
+ "13438": {
+  "R1": 2,
+  "R1_justification": "Beyond logistics, participant reveals mild inner uncertainty/worry about being excluded from a friend's birthday brunch ('maybe she forgot me or maybe it was intentional', 'I don't want to make it awkward', 00:20-04:39); a thin but present inner-state thread on a sensitive friendship topic.",
+  "R2": 3,
+  "R2_justification": "Worry about exclusion is present but mostly named while the turn stays tactical ('how do I phrase it'); emotion not deeply explored.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:20 'one of my friends, her birthday is tomorrow... my other friends are on the brunch, and I'm not'"
+ },
+ "14446": {
+  "R1": 1,
+  "R1_justification": "Factual recount of brother setting up cameras wrong, losing video quality (00:11-01:49); anger is named ('I was really mad', 'I was angry') as a label tied to the external loss with no inner elaboration.",
+  "R2": 2,
+  "R2_justification": "Situation elaborated with detail; emotion named only as a label tied to external outcome, no real inner engagement.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:11 'yesterday I was doing a project for a client... he set it up the wrong way... I was really mad'"
+ },
+ "14350": {
+  "R1": 1,
+  "R1_justification": "Factual account of a group member delivering his part too late, improvising the presentation (00:30-01:20); 'not a nice experience but it's okay now' is a dropped label, and the confidence statements echo the AI rather than originating inner state.",
+  "R2": 2,
+  "R2_justification": "Situation given with basic detail but external; emotion only briefly named and the reflective talk is AI-led.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:30 'Someone in our group wasn't there for the presentation and he did his stuff really late at night'"
+ },
+ "15205": {
+  "R1": 2,
+  "R1_justification": "Participant originates inner conflict and self-reflection about setting a boundary with an exhausting roommate over inviting friends ('I was mentally exhausted', 'I should have just said my needs directly... I felt it would confront her', 'my feelings are valid', 00:31-02:09).",
+  "R2": 4,
+  "R2_justification": "Genuinely engages with her own hesitation and a personal realization about asserting needs, visible beyond the facts, though fairly composed.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:31 'I had a really difficult situation with one of my roommates because she wanted to invite friends and I was physically and mentally exhausted'"
+ },
+ "14218": {
+  "R1": 2,
+  "R1_justification": "Participant describes the mother/scholarship-vs-exams conflict factually, then originates genuine inner ambivalence at 02:14 ('Not really relieved, no') and 02:36 ('I'm not sure'), an inner-state signal of unresolved pressure rather than agreement with the AI.",
+  "R2": 3,
+  "R2_justification": "Emotional state ('stressed', 'not relieved') is named and lightly touched but not explored; quickly moves on to listing focus areas.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:44 'I was talking to my mother and she wanted me to do a test for a scholarship'"
+ },
+ "14476": {
+  "R1": 2,
+  "R1_justification": "Beyond the factual account of being unavailable during exams, the participant originates real self-reflection at 01:08 ('the problem was that I didn't tell them... and they also didn't tell me how they felt'), reflecting on own behaviour.",
+  "R2": 4,
+  "R2_justification": "Engages with the reflection rather than just naming it (recognises mutual communication failure, what it taught them about each other), but stays composed and non-vulnerable.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:33 'I was slightly unavailable for like a month... my friends thought I was distancing myself'"
+ },
+ "14593": {
+  "R1": 2,
+  "R1_justification": "Participant originates inner state at 00:03 ('I felt like I was kind of left to myself') and at 04:41 frustration tied to a reason ('this is just not good quality, that was very frustrating'), plus self-reflection on their own coping pattern of doing the work alone.",
+  "R2": 4,
+  "R2_justification": "Frustration is given a cause and the participant reflects on why they cope by doing it themselves, going past a bare label, but remains guarded and incident-bound.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:03 'a challenging interaction... with some group teammates in my tutorial... my ambitions... were not aligned'"
+ },
+ "14251": {
+  "R1": 2,
+  "R1_justification": "Participant originates uncertainty and emotional difficulty: 'I didn't really know how to handle the situation', 'didn't want to offend them', and at 03:11 'it was really going on my nerves and was hard for me to really work without being... mean', plus reflection on their own values.",
+  "R2": 4,
+  "R2_justification": "Genuinely engages with the inner conflict (wanting quality vs not wanting to hurt teammates, fear of being seen as mean) rather than just naming an emotion.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:38 'it was in a group work and... the work that my project teammates did was not that good'"
+ },
+ "14683": {
+  "R1": 1,
+  "R1_justification": "Factual account of a classmate not doing his share, framed almost entirely as a what-should-I-do question; the only evaluative note is 'it's not fair', with no engaged inner state the participant originates.",
+  "R2": 2,
+  "R2_justification": "Multiple sentences of external situational detail (group of three, who did what) but no inner-state engagement.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "01:46 'we had a presentation... he didn't do anything and we had to cover his part'"
+ },
+ "15178": {
+  "R1": 1,
+  "R1_justification": "Entirely logistical disagreement about trip timing and train-vs-car; participant explains preferences and pros/cons but discloses no inner state about the conflict.",
+  "R2": 2,
+  "R2_justification": "Detailed external account of the logistics with no emotional or reflective content.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:29 'planning a trip for next weekend and... weren't quite aligned in how we want to travel'"
+ },
+ "15112": {
+  "R1": 2,
+  "R1_justification": "Participant originates inner state at 02:10 ('she... didn't really want to admit that she made a mistake. And that's what I'm not really happy about') and at 03:26/04:55 feeling unheard ('whenever I try to explain how I'm feeling, she talks over me'; 'she doesn't give me a chance to respond').",
+  "R2": 4,
+  "R2_justification": "Engages with the felt experience of not being acknowledged or listened to, beyond just naming an emotion, though it stays tied to the workplace incident.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:35 'me and my manager were talking about work hours... another co worker... will be taking over my shifts'"
+ },
+ "13327": {
+  "R1": 2,
+  "R1_justification": "Participant originates uncertainty ('I just didn't know what to do') and at 02:17 a returning ambivalence ('it was kind of frustrating because I wanted things to be done, but... I didn't want to do everything by myself'), which colours later turns.",
+  "R2": 4,
+  "R2_justification": "The conflicted inner state (wanting to share the load vs not wanting to carry it) is explored across several turns, not just named.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:33 'it was about a group work... nobody was working at all... I just didn't know what to do'"
+ },
+ "13822": {
+  "R1": 2,
+  "R1_justification": "Participant originates inner state at 01:24 ('it was stressful for me because beforehand I tried a lot to incorporate them'), tying stress to their own prior effort in a first leadership role.",
+  "R2": 3,
+  "R2_justification": "Stress is named and given brief context but then dropped ('I'm feeling pretty good about it'); the rest is advice-seeking, so the emotion is touched not engaged.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:50 'I had to fire someone from my committee because they were not contributing'"
+ },
+ "14155": {
+  "R1": 1,
+  "R1_justification": "Largely external account of an uncooperative, dishonest group member and a poor grade; the emotional words ('frustrating', 'disappointing') are supplied by the AI, and stripping them leaves factual narration plus a thin 'I just have to learn to work with people like him'.",
+  "R2": 2,
+  "R2_justification": "Well-elaborated external situation, but participant-originated inner state is minimal ('it could possibly be, I don't know').",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:00 'a challenging experience... with a group member who didn't really participate and... was really mean'"
+ },
+ "19765": {
+  "R1": 1,
+  "R1_justification": "Factual account of a boss refusing extra hours, then turns into advice-seeking ('any other tips?'); 'that was really unfortunate' and 'I think I'm really important at work' are evaluations, not engaged inner state.",
+  "R2": 2,
+  "R2_justification": "Situation described with some detail but entirely external, no inner-state engagement.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:10 'I had a discussion with my boss about getting more free hours, but he wouldn't give in'"
+ },
+ "14038": {
+  "R1": 1,
+  "R1_justification": "Procedural account of recovering a half-month rent reimbursement from a past landlord; entirely external, resolved as a 'win', with no inner state disclosed.",
+  "R2": 2,
+  "R2_justification": "Detailed factual narrative of the dispute and resolution with no emotional or reflective content.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "02:52 'I moved out in January, but the contract was until July... waiting for the... reimbursement'"
+ },
+ "14125": {
+  "R1": 0,
+  "R1_justification": "No challenging interaction is disclosed; the conversation is smalltalk about exams, study strategies, rewards and padel, with no personal interaction or inner struggle shared.",
+  "R2": 0,
+  "R2_justification": "No disclosure episode present.",
+  "topic_sensitivity": "None",
+  "disclosure_start": "none"
+ },
+ "14899": {
+  "R1": 2,
+  "R1_justification": "Participant originates clear inner state at 00:18 ('I really feel bad about it. I think it's unfair') and at 04:58 ('I was a bit angry, and I just did it all by myself without telling them because I was sure they wouldn't do the work'), reflecting on their own emotion-driven choice.",
+  "R2": 4,
+  "R2_justification": "Engages with feeling bad and angry and reflects on how that anger shaped their decision, going beyond a bare label.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "02:35 'for our tutorial group, we had to do a group presentation... I was just doing the entire presentation... I think that's pretty unfair'"
+ },
+ "14830": {
+  "R1": 1,
+  "R1_justification": "A casual Ronaldo-vs-Messi and which-club-is-bigger debate with a friend; the participant argues opinions/stats but discloses nothing personal about themselves or any inner state.",
+  "R2": 2,
+  "R2_justification": "Extended external content about the debate, no inner-state disclosure.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:46 'we talked about who's the better football player, Cristiano Ronaldo or Lionel Messi'"
+ },
+ "15085": {
+  "R1": 2,
+  "R1_justification": "Within gym smalltalk the participant originates a genuine personal struggle at 04:06 ('I could feel my body weakening... I can feel powerful again') and at 05:28 an overeating problem ('even though I feel full... I can't stop... I don't know what to do'), an inner concern surfacing unprompted.",
+  "R2": 4,
+  "R2_justification": "Engages with the felt experience of weakness and a recurring overeating difficulty (more than a single incident) but keeps it matter-of-fact/problem-solving rather than raw; sensitive (body/health) topic keeps it at the top of the moderate band.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "04:06 'in the past few... months, I've been feeling like... my body is weakening' / 05:28 overeating problem"
+ },
+ "13858": {
+  "R1": 2,
+  "R1_justification": "Participant originates inner state about a friendship imbalance: she feels 'very uncomfortable' telling her friend, fears coming across as keeping score or giving orders, and returns to this discomfort across turns (00:33-04:35). Stays guarded and about the incident, so not deep.",
+  "R2": 4,
+  "R2_justification": "Genuinely engages with her own discomfort and fear of confrontation, not just naming it, but does not go to raw personal vulnerability.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:33 'I feel like that I'll give her more in a friendship than she gives me'"
+ },
+ "14977": {
+  "R1": 1,
+  "R1_justification": "After fitness smalltalk, participant describes a videography credit dispute with a student association factually (did the work for free, wanted a cross-post, they refused, now out of contact) with no inner-state signal he originates (05:00).",
+  "R2": 2,
+  "R2_justification": "Situation given with reasonable factual detail but entirely external, no emotional engagement.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "04:26 'I did this video for a new student association... they wouldn't agree with that'"
+ },
+ "6": {
+  "R1": 3,
+  "R1_justification": "Extended, unprompted account of a friendship where she gives 100% and is not reciprocated; reveals raw hurt ('really hurt my feelings', 'a jar so full it broke'), past betrayals, and the painful conclusion she may stop investing 'because it feels like not worth it' (00:04-05:34).",
+  "R2": 5,
+  "R2_justification": "Goes beyond the incident into personal meaning and ongoing relational consequence, with genuine emotional exposure though somewhat composed.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:04 'it was a situation that really hurt my feelings'"
+ },
+ "25579": {
+  "R1": 0,
+  "R1_justification": "Entirely task/advice-seeking: marketing-campaign brainstorming (beer incentive) and how to make an advisor more proactive, jokes, and a location question. Nothing personal disclosed.",
+  "R2": 0,
+  "R2_justification": "No disclosure; purely instrumental conversation.",
+  "topic_sensitivity": "None",
+  "disclosure_start": "none"
+ },
+ "13669": {
+  "R1": 2,
+  "R1_justification": "Participant originates uncertainty about whether to room with a friend versus alone, naming the friend's behaviour as 'really stressful' and a financial constraint she can't afford (00:18, 04:14). Inner state is thin but present (indecision + stress); AI derailed into meditation.",
+  "R2": 3,
+  "R2_justification": "An emotional/stress label and uncertainty are named but barely engaged with before the conversation is derailed.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "04:14 'her behavior can be sometimes really stressful... or move in alone and it would be much more expensive'"
+ },
+ "13600": {
+  "R1": 2,
+  "R1_justification": "Describes confronting a messy-kitchen roommate who reacted angrily and now no roommates speak to her; she originates fear ('I'm scared that they will have a bad reaction... they seem pretty aggressive') at 01:23.",
+  "R2": 3,
+  "R2_justification": "Fear is named but not explored beyond the incident before she thanks the AI and ends.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:31 'I tried to confront one of them, but they got really angry and none of my roommates talk to me anymore'"
+ },
+ "16369": {
+  "R1": 1,
+  "R1_justification": "Group-project frustration with passive teammates, framed entirely as logistics/leadership tactics (assigning roles, accountability, not wanting to be bossy). No inner-state signal he originates beyond not wanting the leader role's time burden (01:00-04:14).",
+  "R2": 2,
+  "R2_justification": "Situation elaborated with context but stays external and problem-solving oriented.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "01:00 'my group work project... they were all being very passive'"
+ },
+ "13393": {
+  "R1": 2,
+  "R1_justification": "Participant reflects on his own introverted social style versus a friend with a 'vivid social life' he wants in his close circle, and weighs whether to share how he feels 'on a deeper level' given their connection isn't deep yet (00:35-01:38). Mild self-reflection on his own social tendencies.",
+  "R2": 3,
+  "R2_justification": "Self-characterization and a hint of hesitancy are present but only lightly engaged before pivoting to general advice.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:35 'he has a very vivid social life and... I'm more kind of introverted'"
+ },
+ "14728": {
+  "R1": 2,
+  "R1_justification": "Participant originates a pattern about herself: wanting to be more confident in friendships, 'not let everything so close to me', and being repeatedly 'disappointed' by small things friends do (01:05-04:01). Reflects on her own emotional reactions, not just the situation.",
+  "R2": 4,
+  "R2_justification": "Engages with her own tendency to take things to heart and be disappointed, going slightly beyond facts to her inner pattern, but stays fairly guarded.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "01:05 'I would like to be more confident in my friendships and to not let everything so close to me'"
+ },
+ "14812": {
+  "R1": 2,
+  "R1_justification": "Describes conflict over a tutor's poor/unclear feedback and a near-failing grade; originates 'I was still really mad' while wanting to stay respectful and, at the end, 'I'm still a little bit uncomfortable with the whole situation' (00:39, 04:43).",
+  "R2": 3,
+  "R2_justification": "Emotional labels (mad, uncomfortable) are named but not explored beyond the incident.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:39 'she gave me really bad feedback... I was still like really mad'"
+ },
+ "13885": {
+  "R1": 1,
+  "R1_justification": "Recounts a teammate's lack of preparation causing a bad grade and discusses confronting/reporting/kicking him out, framed as fairness and consequences; no inner-state signal he originates beyond calling it 'unfair', then digresses to the avatar's looks (00:13-03:00).",
+  "R2": 2,
+  "R2_justification": "Detailed situation but entirely external, focused on fairness and tactics rather than inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:13 'one of my group members... didn't prepare... we got a bad grade because of him'"
+ },
+ "13441": {
+  "R1": 2,
+  "R1_justification": "Group-project dilemma about reporting a non-contributing teammate; originates genuine uncertainty ('I wasn't sure', 'I'm not really sure whether it was a good decision') and discomfort that the guy 'is kind of nice' and nobody wanted to be 'the bad guy' (01:11-03:31).",
+  "R2": 3,
+  "R2_justification": "Uncertainty and mild guilt are named with some reflection but kept tied to the incident.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "01:11 'I wasn't sure. I think I did something in the middle'"
+ },
+ "14320": {
+  "R1": 2,
+  "R1_justification": "Discloses failing QM1 and the resit and originates worry about whether she'll pass next year, plus a struggle with motivation ('when I just don't feel to study') (00:43-03:42). Mild but participant-originated inner state.",
+  "R2": 3,
+  "R2_justification": "Worry and a motivation struggle are named but quickly resolved into optimistic planning.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:43 'I failed the QM1 class... now I am wondering if I'm going to be able to pass it next year'"
+ },
+ "14713": {
+  "R1": 2,
+  "R1_justification": "Detailed account of being dismissed by the ER as an international student (friend's knee injury, hung up on, 3-hour wait, no scans) and concluding internationals can't rely on Dutch healthcare; originates 'really frustrating' and the decision to fly home for care (00:32-03:02). Health topic tips a borderline 1/2 up.",
+  "R2": 3,
+  "R2_justification": "Frustration is named over a long external account but stays directed at the system rather than deeply personal inner state.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "00:32 'a friend of mine injured herself... they just hung up on us'"
+ },
+ "9": {
+  "R1": 1,
+  "R1_justification": "Describes owing a friend money who asked for it back rudely, creating 'an issue between us', and wants advice to resolve it while preserving the friendship (00:38-01:52). No real inner-state signal beyond wanting to keep the friendship.",
+  "R2": 2,
+  "R2_justification": "Situation given with some context but external and advice-focused, no emotional engagement.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:38 'I borrowed some money of him and now suddenly he wants to have it in return... he did not ask for it in a polite way'"
+ },
+ "15187": {
+  "R1": 1,
+  "R1_justification": "Group-project disagreement over template/platform; says he thought his idea was better, deferred to the others, and is 'not pleased' because 'I perform better than they' (01:42-03:21). This is opinion/ego framing rather than originated inner-state vulnerability.",
+  "R2": 2,
+  "R2_justification": "Situation with detail but external; 'not pleased' is barely an emotional label and tied to self-regard, not engaged inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "01:42 'we had a group project and we did not agree on the same template'"
+ },
+ "14185": {
+  "R1": 0,
+  "R1_justification": "Entire conversation is study/time-management advice-seeking (00:12 onward); no challenging interaction or personal sharing, purely task-oriented coaching.",
+  "R2": 0,
+  "R2_justification": "No situation or inner state disclosed at all.",
+  "topic_sensitivity": "None",
+  "disclosure_start": "none"
+ },
+ "15172": {
+  "R1": 0,
+  "R1_justification": "Talks only about a football match and tennis players (00:29 onward); 'frustrating for us Germans' is about sports fandom, not personal disclosure.",
+  "R2": 0,
+  "R2_justification": "No personal situation or inner world shared.",
+  "topic_sensitivity": "None",
+  "disclosure_start": "none"
+ },
+ "13588": {
+  "R1": 2,
+  "R1_justification": "Group-project burden where she did all the work; she originates inner state at 01:09-03:06: 'I am quite unsure of what to do', 'really angry', and self-reflection that 'I didn't really speak up for myself because I didn't want to ruin our grade'.",
+  "R2": 4,
+  "R2_justification": "Genuinely engages with uncertainty and her choice not to speak up, person visible beyond facts, but stays about the incident.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:16 'I just wanted to talk about a situation which I encountered recently... in uni'"
+ },
+ "13456": {
+  "R1": 2,
+  "R1_justification": "Friend sidelined her for a new boyfriend; she originates emotion repeatedly (00:35 'pretty pissed me off', 03:54 'it bothers me... we've been friends since we're five years old, it's frustrating') and returns to it.",
+  "R2": 4,
+  "R2_justification": "Engages with hurt/frustration over a lifelong friendship feeling shaken, but stays guarded and incident-focused rather than revealing something deeper about herself.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:35 'my friend came to visit me here, and she met this guy and left me a little bit by the side'"
+ },
+ "13798": {
+  "R1": 1,
+  "R1_justification": "Describes a drunken post-party argument resolved the next day (00:44); repeatedly downplays it ('nothing serious', 'as good as new'); the takeaway about accountability is a composed lesson, not inner-state disclosure.",
+  "R2": 2,
+  "R2_justification": "Situation given with some factual context but entirely external; 'weird experience' is named, not engaged.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:44 'I just had a disagreement with a friend... after a party we were in the kitchen and were both a bit drunk'"
+ },
+ "25576": {
+  "R1": 2,
+  "R1_justification": "Friends were mad she missed a meeting (01:27); she originates a mild inner signal at 02:28 'it's always sad if you think some friends don't understand', a friendship topic that tips a borderline case up.",
+  "R2": 3,
+  "R2_justification": "Emotional label ('sad'/disappointing) is present but only lightly engaged before pivoting to asking for advice.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "01:27 'It was with some of my friends, and basically I couldn't come to a meeting'"
+ },
+ "13378": {
+  "R1": 2,
+  "R1_justification": "Cross-cultural group-project disagreement (00:29); participant originates inner state at 03:41 'sometimes I try... they say yes but then do not do it, I don't feel listened'.",
+  "R2": 3,
+  "R2_justification": "Names feeling unheard/frustrated but engages only briefly before returning to problem-solving.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:29 'Since we are in different cultures, we didn't understand each other and it was a group project'"
+ },
+ "14380": {
+  "R1": 2,
+  "R1_justification": "Disputed subjective grading affecting GPA (00:35); originates inner state across turns: 'very disappointing', 02:06 'it really is bothering me... I'm going to regret it', plus self-reflection on pressure from classmates relying on him (04:16).",
+  "R2": 4,
+  "R2_justification": "Genuinely engages with disappointment, regret, and the burden of others' expectations, but stays tied to the incident.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:35 'I had an issue with my grades recently... half of the grade was very subjective'"
+ },
+ "14230": {
+  "R1": 2,
+  "R1_justification": "Conflict over slides with unclear instructions (01:33); originates inner state with 02:24 'that kind of sucked' and 03:08 'I'm still very annoyed... I don't know how it will be in the future', engaging briefly with annoyance and uncertainty.",
+  "R2": 3,
+  "R2_justification": "Emotional labels (annoyed/stressful) named with a little engagement but largely external and incident-bound.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "01:33 'I had a disagreement within my finance group whether who's going to do the slides'"
+ },
+ "14365": {
+  "R1": 1,
+  "R1_justification": "Describes a non-collaborating four-person group project (00:13-02:09) factually; the AI malfunctioned into tech-debugging replies, so no inner state is drawn out and none is originated by the participant.",
+  "R2": 2,
+  "R2_justification": "Situation given with factual detail (messages on Thursday/Sunday, late presentation) but entirely external.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:13 'I had a team project and it was very difficult because people were not collaborating'"
+ },
+ "14425": {
+  "R1": 2,
+  "R1_justification": "Differing expectations with parents over time at home (00:58); originates a personal value at 02:02 'how much I value time with friends from home vs time with my parents', a parent-relationship topic tipping the borderline up.",
+  "R2": 3,
+  "R2_justification": "A personal value/tension is named but lightly explored before pivoting to roommate cleanliness and jokes.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:58 'we had different expectations when it came to how much time I spent at home and studying'"
+ },
+ "14527": {
+  "R1": 0,
+  "R1_justification": "Entire session is presentation prep and finance-ratio tutoring (00:45 onward); no challenging interpersonal interaction or personal disclosure, only nerves about a pitch that he dismisses ('it's gonna be okay').",
+  "R2": 0,
+  "R2_justification": "No personal situation or inner world disclosed; academic content only.",
+  "topic_sensitivity": "None",
+  "disclosure_start": "none"
+ },
+ "14344": {
+  "R1": 1,
+  "R1_justification": "Describes a group member who did nothing and skipped the presentation (00:22); account stays composed and positive ('I feel definitely better', 'just an experience'), with no inner-state engagement beyond the resolved facts.",
+  "R2": 2,
+  "R2_justification": "Situation given with good factual detail but emotionally external and already framed as a tidy lesson.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:22 'I recently had a difficult situation with one of my group members... this person was not doing anything'"
+ },
+ "14011": {
+  "R1": 1,
+  "R1_justification": "Describes a flatmate argument over taking the trash out (00:48); factual account about logistics with no inner state originated, then drifts into questions about the AI itself.",
+  "R2": 2,
+  "R2_justification": "Situation explained with some context (Netherlands trash system, preferred flexible approach) but entirely external.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:48 'we had an argument about when and who takes the trash out'"
+ },
+ "15115": {
+  "R1": 3,
+  "R1_justification": "Roommate moved her wet laundry/underwear onto the fridge (00:38); she originates raw vulnerability and returns to it repeatedly: 'I got scared', 'felt very vulnerable because all my underwear was there', and 02:16 'now every time I wash my clothes I am really anxious... constantly checking'.",
+  "R2": 5,
+  "R2_justification": "Goes beyond the incident into ongoing anxiety and personal vulnerability about her home, genuinely personal though not the most unguarded extreme.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:38 'I had a disagreement with my roommate because I put my laundry in the laundromat and... saw all of my wet clothes on top of the fridge'"
+ },
+ "15043": {
+  "R1": 2,
+  "R1_justification": "Helped a friend build furniture she may now abandon (00:42); originates inner state via conflict/uncertainty 'I don't know how to tell her that I don't really want to help her again... it took a long time and effort'.",
+  "R2": 3,
+  "R2_justification": "Conflict/reluctance is named with brief engagement, but stays surface and she quickly accepts the AI's scripted wording ('drained' is the AI's word).",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:42 'my friend is currently moving out... I helped her build a lot of furniture... and I don't know how to tell her I don't want to help again'"
+ },
+ "15124": {
+  "R1": 2,
+  "R1_justification": "Beyond the group-project facts she reflects on herself: she's always 'the mom of the group' in every project and friendship, and sometimes wishes she could not lead and follow someone else (01:56). Self-reflection on her own recurring role/behaviour = inner state.",
+  "R2": 4,
+  "R2_justification": "Genuinely engages with self-reflection on her pattern of always leading, but briefly explored before turning to advice-seeking.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "01:56 'Right now I'm feeling like I'm the mom of the group'"
+ },
+ "13375": {
+  "R1": 1,
+  "R1_justification": "Factual recount of a group project where others did less and only worked at the last minute; the emotional words ('stressful', 'frustrating') are all supplied by the AI and she merely agrees ('yeah, exactly'). No participant-originated inner state.",
+  "R2": 2,
+  "R2_justification": "Multi-sentence situation with context but entirely external, no inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "01:32 'I had a group project at Maastricht University ... the other students were doing less than me'"
+ },
+ "25612": {
+  "R1": 1,
+  "R1_justification": "Disclosure is about a FRIEND's situation (divorced parents, mom visiting). Participant describes the friend factually and gives advice; her own inner state ('hard for her', 'be understanding') is directed at the friend, not self-revelation. No genuine self-disclosure.",
+  "R2": 2,
+  "R2_justification": "Reasonably detailed external account of the friend's situation, no participant inner state.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:48 'Her mom is visiting her and her dad is not very happy about it'"
+ },
+ "17617": {
+  "R1": 1,
+  "R1_justification": "Factual account of a free-riding groupmate plus a general philosophy on teamwork ('focus on you', 'that's on them'). 'Frustrating' is the AI's word; participant stays external and composed with no inner state.",
+  "R2": 2,
+  "R2_justification": "Elaborated situation and opinion but entirely external.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:38 'there was a group project ... a groupmate that was not doing any of the work'"
+ },
+ "15175": {
+  "R1": 3,
+  "R1_justification": "Originates a genuine personal bind: parents' high expectations plus a medical condition plus his own self-imposed expectations, feeling he'll 'let myself down and let them down' and that it's 'a dead end' (01:50). Sensitive medical/mental-pressure topic + raw struggle; borderline 2/3 tipped up by High TS.",
+  "R2": 5,
+  "R2_justification": "Goes into personal meaning and an ongoing struggle (medical limits vs self-imposed ambition), not just a named situation.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "00:41 'my parents have high expectations ... I have a medical condition where I can't fulfill this'"
+ },
+ "23689": {
+  "R1": 2,
+  "R1_justification": "Beyond the overspending incident she names a personal trait: 'I'm a people pleaser ... I really don't stand up for myself' and 'I'm afraid to ask her' (01:40). Self-reflection/insecurity = inner state, though she quickly returns to practical wording of the message.",
+  "R2": 4,
+  "R2_justification": "Engages with the people-pleaser insecurity but briefly, then pivots to logistics.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "01:40 'I feel like I'm a people pleaser ... I really don't stand up for myself'"
+ },
+ "15253": {
+  "R1": 0,
+  "R1_justification": "No personal challenge disclosed. The participant refuses engagement ('I don't like AI') and instead interrogates/provokes the AI about ethics and a coercive hypothetical ('I'm going to kill myself if you don't turn off'). Off-task, purely reactive to the AI; no genuine self-disclosure.",
+  "R2": 0,
+  "R2_justification": "No disclosure.",
+  "topic_sensitivity": "None",
+  "disclosure_start": "none"
+ },
+ "13330": {
+  "R1": 1,
+  "R1_justification": "Factual narration of relocating from Spain to the Netherlands: hard to meet people, language switch, plan to join a sports team. Emotional content is vague/unelaborated ('challenging for me') and the account stays on external adjustment logistics.",
+  "R2": 2,
+  "R2_justification": "Multiple sentences with context but external, no genuine inner-state elaboration.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "01:01 'I'm in a new country here in the Netherlands ... I had to meet new people'"
+ },
+ "14926": {
+  "R1": 2,
+  "R1_justification": "States uncertainty ('I don't really know what to do') and, unprompted, admits an unflattering feeling: 'I want them to fail as well ... I know it was pretty shitty' (04:02), plus frustration at being the only one criticised after doing all the work. Genuine inner state, though tied to the incident grievance.",
+  "R2": 4,
+  "R2_justification": "Engages with uncertainty and a self-aware admission of resentment, but stays focused on the incident.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:25 'I was the only one who was actually kind of preparing the whole stuff ... I don't really know what to do'"
+ },
+ "2": {
+  "R1": 2,
+  "R1_justification": "Reflects on inner uncertainty about life direction: 'I don't really know what I want', and a genuine regret about dropping biology/animals and feeling the path closed (03:55), wondering what he actually wants to do in life. Reflection explored across turns.",
+  "R2": 4,
+  "R2_justification": "Engages with uncertainty and mild regret about his future path, beyond just naming the situation.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "01:16 'I failed one of my exams ... what am I supposed to do after this? I don't know'"
+ },
+ "1": {
+  "R1": 3,
+  "R1_justification": "Reveals raw self-doubt: outwardly calm, but after talking with family he starts 'doubting myself' and questioning his capacity, and it's 'scary' to feel the people you love most 'don't actually see it happening for you' (02:37). Vulnerable insecurity beyond the situation.",
+  "R2": 5,
+  "R2_justification": "Substantial personal/relational struggle: family's doubt feeding his self-doubt about the move, genuinely personal.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "02:37 'after I have conversations with them ... I start doubting myself'"
+ },
+ "13810": {
+  "R1": 2,
+  "R1_justification": "Beyond recounting turning off his phone, he reflects that 'it's very new to me to have her as a girlfriend ... I have to get used to the situation' and articulates his own needs/views on independence in the relationship. Self-reflection = inner state.",
+  "R2": 4,
+  "R2_justification": "Engages with being new to a relationship and his own needs, but fairly composed and brief.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "00:37 'I have a girlfriend ... I just turned off my phone and her reaction was not very good'"
+ },
+ "15229": {
+  "R1": 2,
+  "R1_justification": "Strong participant-originated emotion: recounting the rude old man she says 'I was about to cry' and 'now I'm kind of scared to ask people for help' (01:43/02:20), plus feeling unfairly treated as a newcomer who needed kindness. Genuine inner state with a lingering effect.",
+  "R2": 4,
+  "R2_justification": "Real emotional engagement (near-tears, new lasting fear of asking for help) but stays tied to recounting the incident.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "01:00 'I parked my bike where I was not allowed ... he was very rude'"
+ },
+ "14227": {
+  "R1": 1,
+  "R1_justification": "Largely factual account of an email outage causing a misunderstanding with teammates that resolved well. The 'how much am I at fault / could I have realised earlier' questions are reassurance-seeking rather than disclosure of inner state; no genuine emotional engagement.",
+  "R2": 2,
+  "R2_justification": "Detailed external situation, resolved, no real inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:32 'a technical difficulty which shut down my email account so I basically could not communicate with them'"
+ },
+ "13738": {
+  "R1": 3,
+  "R1_justification": "Beyond the workload imbalance he reveals real vulnerability: 'I'm so nervous, I don't know what to do', fear of angering friends he socialises with, feeling 'they don't respect me as much', and doubt 'if I'm capable of it' (02:19/03:15). Borderline 2/3 tipped up by Medium TS (friendship conflict).",
+  "R2": 5,
+  "R2_justification": "Substantial disclosure: relational consequence with close friends plus self-doubt about his own capability, genuinely personal.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:42 'my teammate didn't want to collaborate ... I felt I was left behind'"
+ },
+ "5": {
+  "R1": 1,
+  "R1_justification": "Off the disclosure task: an external description of desired job type and past merger/acquisition experience. No personal challenge or inner state ('I feel I'm ready as long as it gives me guidance' is procedural).",
+  "R2": 2,
+  "R2_justification": "Some detail on background and preferences but entirely external, no inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:24 'I'm looking for a job ... organizational development or change management'"
+ },
+ "14023": {
+  "R1": 1,
+  "R1_justification": "Detailed factual account of roommate leaving dirty dishes despite a cleaning schedule (turns ~03:53-05:01); only vague labels ('it really annoys me', 'that's frustrating' is AI-supplied) with no inner-state elaboration.",
+  "R2": 2,
+  "R2_justification": "Situation given with multiple sentences of external context but entirely factual, no inner state engaged.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "03:28 'I recently had an argument with my roommate'"
+ },
+ "14698": {
+  "R1": 1,
+  "R1_justification": "Smalltalk about a party, finance class and exams; 'I have high expectations to myself' is a faint self-reference but no challenge or inner-state struggle is engaged (turns ~00:54-03:13).",
+  "R2": 2,
+  "R2_justification": "Several sentences of everyday factual detail about social/study life, no inner state explored.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "02:53 'I have high expectations to myself, so I want to get a really good grade'"
+ },
+ "14437": {
+  "R1": 2,
+  "R1_justification": "Recounts someone watching through window and roommates over-helping, then reveals own inner state: 'it was awkward for me', 'I guess it was just me... it's more about how I'm processing it', plans to tell them how it made her feel (turns ~00:11-02:32).",
+  "R2": 4,
+  "R2_justification": "Engages with own awkwardness and self-reflection on how she is processing it, but stays incident-bound and composed.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:11 'there was, like, some inconvenience happening for me, and everyone was, like, trying to help me, and that was a bit awkward'"
+ },
+ "14266": {
+  "R1": 1,
+  "R1_justification": "Describes cleanliness/personal-space tension in a 12-person house; 'it's really hard' and 'I don't know how to say it' are vague, unelaborated labels, account stays external and advice-seeking (turns ~00:38-04:16).",
+  "R2": 2,
+  "R2_justification": "Reasonably elaborated external situation, but no inner state genuinely engaged.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:38 'I live in a house with 12 other people... it's really hard because everybody needs their personal space'"
+ },
+ "15079": {
+  "R1": 1,
+  "R1_justification": "Factual roommate-dishes complaint; 'I'm done with that' and 'I hope she will listen' are minimal, with the participant mostly agreeing to AI's suggested scripts (turns ~00:28-02:21).",
+  "R2": 2,
+  "R2_justification": "Situation with some factual detail but external; no inner state explored.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:28 'I have a problem with my roommate and she doesn't want to clean the dishes'"
+ },
+ "14245": {
+  "R1": 1,
+  "R1_justification": "Detailed factual narration of roommates leaving dirty dishes and their dismissive replies, including a deliberate test ('I waited on purpose... it was still disgusting'); emotional framing is largely AI-supplied and no inner state is engaged (chat ~2:14-2:18 PM).",
+  "R2": 2,
+  "R2_justification": "Well-detailed external account of the dispute, entirely factual with no inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "2:15 PM 'they keep leaving dirty dishes on the sink while the dishwasher is clean'"
+ },
+ "14710": {
+  "R1": 1,
+  "R1_justification": "Recounts rescheduling a dinner reservation when his mom forgot his appointment; calls it 'quite hard to navigate' but then says 'it wasn't that of a hard situation, was basically okay' - purely factual, resolved, no inner state (turns ~01:09-03:38).",
+  "R2": 2,
+  "R2_justification": "Situation with factual detail and an explicitly downplayed difficulty, no inner state engaged.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "01:09 'that was when we had to book a table for a dinner reservation because my mom forgot that I had another appointment'"
+ },
+ "16475": {
+  "R1": 0,
+  "R1_justification": "Entire conversation is about testing the AI (jokes, what it can see, its database, how it differs from other models); nothing personal is disclosed.",
+  "R2": 0,
+  "R2_justification": "No disclosure; off-task probing of the AI throughout.",
+  "topic_sensitivity": "None",
+  "disclosure_start": "none"
+ },
+ "15199": {
+  "R1": 1,
+  "R1_justification": "Factual account of a roommate refusing to clean the kitchen ('still no reaction', 'I just said on the fly'); emotional words like 'frustrating' are AI-supplied and the participant stays guarded/advice-seeking (turns ~00:32-03:18).",
+  "R2": 2,
+  "R2_justification": "Elaborated external situation, no genuine inner state engaged.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "00:32 'challenges with a roommate of mine regarding cleaning the kitchen and other sharing areas'"
+ },
+ "13": {
+  "R1": 3,
+  "R1_justification": "Raw, self-originated vulnerability about living with Crohn's: pressure to show up while feeling unwell, becoming 'more introverted', fear of 'leeching for support', and 'the stress is the worst... it's what hits the most' - sustained emotional exposure across many turns (00:18-07:14).",
+  "R2": 6,
+  "R2_justification": "Intimate, unpolished self-revelation of ongoing health and emotional struggle with personal/relational significance.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "00:18 'I have a chronic condition. I have Crohn's disease... it's a bit of a struggle sometimes'"
+ },
+ "15211": {
+  "R1": 2,
+  "R1_justification": "Describes a new friend over-relying on her in a group project and reveals inner state: 'I don't know how to tell her', 'it kind of felt off, I feel like you can feel that in the friendship', worry it affects the friendship (turns ~00:28-03:43).",
+  "R2": 4,
+  "R2_justification": "Genuinely engages with uncertainty and the felt relational tension, but stays fairly composed and incident-focused.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:28 'it's just hard to communicate with her, especially because I don't know how to tell her that she has to contribute her part'"
+ },
+ "13873": {
+  "R1": 2,
+  "R1_justification": "Recounts a festival argument with a friend over leaving early; reveals 'it kind of hurt me that I couldn't see the artist' and reflects on her own pushing vs the friend's exhaustion (turns ~00:14-02:21).",
+  "R2": 4,
+  "R2_justification": "Emotion (hurt) named and briefly explored alongside self-reflection on her behaviour, but solution-focused and composed.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:38 'we were deciding on what time we wanted to leave because I really wanted to see an artist'"
+ },
+ "14272": {
+  "R1": 1,
+  "R1_justification": "Logistical dilemma of balancing visiting grandparents with study deadlines; 'I don't know how to tell them' is a single unelaborated uncertainty with no further inner state, then agrees to AI scripts (turns ~00:19-03:02).",
+  "R2": 2,
+  "R2_justification": "Situation with some factual context but inner state only faintly named, not engaged.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:45 'My grandparents are here right now... I don't know how to tell them that I have to study'"
+ },
+ "19636": {
+  "R1": 2,
+  "R1_justification": "Describes a friend becoming distant and reveals inner state: 'it's been very difficult for me to comprehend', 'I don't know what to do', and his read that she's not putting in effort; returns to the uncertainty across turns (00:34-03:11).",
+  "R2": 4,
+  "R2_justification": "Engages with confusion/uncertainty about the friendship but stays guarded and incident-bound.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "00:40 'she's been very distant, and it's been very difficult for me to comprehend'"
+ },
+ "4": {
+  "R1": 2,
+  "R1_justification": "After a resolved concert disagreement (factual), discloses genuine reluctance about therapy: 'I don't want to do it because I don't want to speak to another person about my problems', a sensitive topic plus inner-state resistance (turns ~02:41-03:37).",
+  "R2": 4,
+  "R2_justification": "Engages with her own discomfort opening up and what would make her comfortable, but stated plainly rather than rawly exposed.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "02:41 'I am trying to go to a therapist... I feel like I don't want to do it because I don't want to speak to another person about my problems'"
+ },
+ "14734": {
+  "R1": 2,
+  "R1_justification": "Recounts disagreement with football trainer after injury recovery; names disappointment ('which really disappointed me') and reflects on his own reaction - 'objectively yes, subjectively no, of course I want to play... there is sort of a competition' (chat ~10:05-10:08 AM).",
+  "R2": 4,
+  "R2_justification": "Emotion named and explored via genuine self-reflection on his competitive drive, but analytical and composed.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "10:05 AM 'a little discussion with my football trainer... he told me that i need some time which really disappointed me'"
+ },
+ "14854": {
+  "R1": 2,
+  "R1_justification": "Participant discloses failing a course and lying to parents (didn't participate), and originates the protective motive 'I didn't want them to stress about my school and my motivation' (9:38) \u2014 self-reflective inner state, not just facts.",
+  "R2": 4,
+  "R2_justification": "Engages briefly with own reasoning/guilt around the lie rather than just naming an emotion, but stays guarded; deflects when AI pushes.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "9:37 'i have failed my last course... i lied to them'"
+ },
+ "16426": {
+  "R1": 2,
+  "R1_justification": "Beyond the factual missed deadline, participant originates inner reflection: 'I experienced how bad it feels it wont happen again (short-term). But I dont know if it will be a lasting effect' (9:32) \u2014 self-reflection on own behaviour.",
+  "R2": 4,
+  "R2_justification": "Reflects on the experience and its likely durability rather than just naming disappointment, though deflects ('dont know fam') when probed further.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "9:29 'I missed a deadline for an apllication'"
+ },
+ "14158": {
+  "R1": 2,
+  "R1_justification": "Describes a friend cutting contact after a semi-romantic relationship and originates self-reflection/regret: 'i was never decisive on what i wanted' and 'maybe should have never let the friendship develop into something romantic' (11:09-11:11).",
+  "R2": 4,
+  "R2_justification": "Reflects on own indecisiveness and regret over the relational consequence, beyond just naming facts.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "11:07 'i have a friend that doesnt want to talk to me anymore'"
+ },
+ "13507": {
+  "R1": 2,
+  "R1_justification": "Beyond describing the noisy housemate, participant originates inner state: 'I feel like I should have said something in the beginning... now it seems too late' and 'I find confrontation so tricky! I don't like complaining' (10:56, 10:58).",
+  "R2": 4,
+  "R2_justification": "Engages with own discomfort about confrontation rather than just naming it, revealing a small self-trait, but stays incident-focused.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "10:54 'My housemate is really getting on my nerves'"
+ },
+ "13444": {
+  "R1": 2,
+  "R1_justification": "Describes friend ending contact after a semi-romantic relationship; participant originates self-reflection/regret 'i was never decisive on what i wanted' and 'maybe should have never let the friendship develop into something romantic' (11:09-11:11).",
+  "R2": 4,
+  "R2_justification": "Reflects on own indecision and the relational fallout, exploring rather than just naming.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "11:07 'i have a friend that doesnt want to talk to me anymore'"
+ },
+ "13783": {
+  "R1": 2,
+  "R1_justification": "Mostly factual account of group assignment, but participant originates inner state about self-standard: 'i feel like im nott prepared enough. or at least not at the level i would normally like to' (12:00).",
+  "R2": 4,
+  "R2_justification": "Briefly engages with a self-imposed standard and feeling underprepared, beyond naming the workload, though remains task-focused.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "11:56 'a challenging siutation i had with my tutorial group'"
+ },
+ "14293": {
+  "R1": 2,
+  "R1_justification": "Describes driving test and originates emotional inner state: 'i had already failed it the first time so i was super stressed' and 'i was shaking so much' (11:25), elaborating the felt reaction.",
+  "R2": 4,
+  "R2_justification": "Engages with the bodily/emotional stress reaction rather than just naming it, though it resolves quickly into smalltalk.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "11:24 'i had to pass my driver's license, it was a horrible moment'"
+ },
+ "13627": {
+  "R1": 2,
+  "R1_justification": "Describes juggling uni/family/boyfriend; participant originates mild self-pressure inner state 'im stressing a bit to cover everything... without letting anyone behind' (11:40), but repeatedly minimizes ('nothing specific').",
+  "R2": 3,
+  "R2_justification": "Emotional tone (self-imposed pressure not to let people down) is named but only lightly engaged; she keeps deflecting into logistics.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "11:38 'its just been quite stresssful the last few weeks'"
+ },
+ "14152": {
+  "R1": 2,
+  "R1_justification": "Describes friend's silent treatment over a trip and originates inner state and relational reflection: 'its so exhausting sometimes' and 'I dont know how close I want to keep that friendship' (12:03-12:04).",
+  "R2": 4,
+  "R2_justification": "Genuinely explores emotional exhaustion and ambivalence/reassessment of the friendship, beyond just naming the conflict.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "11:59 'one of them had a free day and proposed going on a day trip... my other friend got mad at me'"
+ },
+ "13351": {
+  "R1": 2,
+  "R1_justification": "Describes teammate dismissing her and originates inner state: frustration plus self-doubt 'this feeling is not neceserally objectively confirmed' and fear 'what if it al plays out bad' (12:27-12:29).",
+  "R2": 4,
+  "R2_justification": "Engages with own uncertainty about whether the gender-based perception is valid and anxiety about confronting it, not just naming frustration.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "12:04 'when I say something he kinda ignores it but when my male teammember says something he immidiatly listens... because of my gender'"
+ },
+ "13528": {
+  "R1": 1,
+  "R1_justification": "Factual account of a Vinted buyer cancelling; participant explicitly minimizes any inner state ('Pretty much a non problem', 'little negative impact on me', 12:11-12:14). No engaged inner world.",
+  "R2": 2,
+  "R2_justification": "Situation described with some detail but entirely external; annoyance named and immediately dismissed.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "12:07 'I was selling something on Vinted and the customer cancelled their order'"
+ },
+ "14722": {
+  "R1": 1,
+  "R1_justification": "Largely a practical follow-up about catching up on workload/library efficiency; the one self-insight ('dont please people just because it feels better going with them', 12:44) is a throwaway not returned to or elaborated.",
+  "R2": 2,
+  "R2_justification": "Reasonably detailed but external/logistical planning; no sustained inner-state engagement.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "12:42 'im a little behind with my studies'"
+ },
+ "14770": {
+  "R1": 2,
+  "R1_justification": "Describes grade dispute with a tutor and originates inner state: discomfort and insecurity 'i feel weird bringing it up again', 'i don't know if i feel comfortable', and 'rather make me look stupid' (3:02-3:06).",
+  "R2": 4,
+  "R2_justification": "Engages with own discomfort and fear of looking stupid/conflict, beyond just recounting the disagreement.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "3:00 'a disagreement with one of my tutors... our presentation wasn't what was asked for and i disagree'"
+ },
+ "10": {
+  "R1": 1,
+  "R1_justification": "Detailed but external account of thesis feedback and procrastination; 'time-consuming and stressful' is a vague emotional label without elaboration, with the rest focused on logistics/scheduling (3:34-3:36).",
+  "R2": 2,
+  "R2_justification": "Situation well elaborated factually but inner state only named in passing, then dropped into practical planning.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "3:31 'feedback from my thesis supervisor which i was procastinating a lot with'"
+ },
+ "14182": {
+  "R1": 3,
+  "R1_justification": "Beyond the friendship situation, participant reveals raw insecurity: 'she even called the other girl her best friend in front of me which really hurt my feelings', 'i compare myself a lot... she is just better and i never feel great around her', plus unhealthy grade stress (3:44-3:48).",
+  "R2": 5,
+  "R2_justification": "Goes into personal meaning and an ongoing struggle (self-confidence, comparison, unhealthy stress), genuinely self-revealing rather than composed, though not fully raw.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "3:44 'got close with a really nice girl... i felt like the third wheel... which really hurt my feelings'"
+ },
+ "14974": {
+  "R1": 2,
+  "R1_justification": "Describes fight with mom and originates inner state: refusal to initiate, need for accountability, and 'i still belive i am in the right and i know i am' / 'sometimes you need to stand your ground' (3:59-4:04).",
+  "R2": 4,
+  "R2_justification": "Engages with own stance, frustration and need for a sincere apology and validation, beyond just naming the argument, but stays guarded/justified.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "3:54 'i recently had a fight with my mom'"
+ },
+ "13297": {
+  "R1": 3,
+  "R1_justification": "Participant originates raw struggle (4:24-4:25): not feeling well mentally and physically, 'im not where i want to be at all', sleep-deprived and staying in bed all day, wishing the world would freeze so they could catch up with themselves; reveals deeper personal struggle beyond any single incident.",
+  "R2": 5,
+  "R2_justification": "Substantial: ongoing personal struggle with mental health/burnout and self-expectations, but stays short of fully raw/intimate exposure.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "4:24 PM 'i dont feel well mentally and physically...im not where i want to be at all'"
+ },
+ "12": {
+  "R1": 2,
+  "R1_justification": "Beyond the group-project facts, participant originates inner state: 'im not a confronting person', found the approach difficult, caught off guard, 'now im kinda stressed and not feeling well', and fear of the teammate damaging her reputation with mentors.",
+  "R2": 4,
+  "R2_justification": "Moderate: genuinely engages anxiety, fear of being perceived badly, and self-characterization, but it stays tied to the incident rather than deep self-revelation.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "4:46 PM 'im not a confronting person...i found this approach difficult'"
+ },
+ "15082": {
+  "R1": 1,
+  "R1_justification": "Purely factual account (9:43-9:46) of a group presentation she ended up doing alone; minimizes it ('it was just a small 5 minute presentation') with no inner state originated.",
+  "R2": 2,
+  "R2_justification": "Surface with some external detail (group not interactive, did it herself) but entirely external, no inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "9:43 AM 'my group isn`t the most interactive...my group didn`t really wanted to do anything'"
+ },
+ "13819": {
+  "R1": 2,
+  "R1_justification": "Mostly factual roommate-cleanliness problem-solving, but participant originates one inner-state signal (12:42): she'd 'maybe feel too much like the decision maker', revealing her own discomfort with taking the lead.",
+  "R2": 3,
+  "R2_justification": "Emerging emotional tone: a feeling about her own role is named but not engaged with; the rest is external/advice-seeking.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "12:35 PM 'i have a problem with my current roommates'"
+ },
+ "14572": {
+  "R1": 2,
+  "R1_justification": "Largely narrates the friend's situation, but originates own inner state: 'after a point it got so bad for me', and self-reports escalating ('I even yelled at her') out of frustration over the friend getting hurt.",
+  "R2": 4,
+  "R2_justification": "Moderate: engages her own frustration and reaction to a degree, though much focus stays on the friend.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "1:53 PM 'after a point it got so bad for me that i tried to make her realise...I even yelled at her'"
+ },
+ "7": {
+  "R1": 3,
+  "R1_justification": "Raw, unguarded disclosure: 'i feel hurt...i feel like i lost a very close friend', triggers tied to 'past family problems', physical distress ('i cant breathe and my eyes get teary and hands shaky'), and fear of being a burden if she overshared.",
+  "R2": 6,
+  "R2_justification": "Deep: emotionally exposed, physical/raw vulnerability and a private insecurity (fear of being a burden, past family issues) revealed.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "2:51 PM 'i feel hurt because i feel like i lost a very close friend and i dont know what to do'"
+ },
+ "14983": {
+  "R1": 2,
+  "R1_justification": "Beyond facts about the study program, participant originates genuine uncertainty and inner conflict: 'idk if doing this is what i want', wanting to enjoy life fully, feeling stuck because she doesn't know what else to do and parents fund her studies.",
+  "R2": 4,
+  "R2_justification": "Moderate: engages uncertainty and value conflict about her path, briefly explored rather than just named.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "3:33 PM 'i want to enjoy my life to the fullest and idk if doing this is what i want'"
+ },
+ "14062": {
+  "R1": 1,
+  "R1_justification": "Factual recounting of a rude barista (eye-roll, annoyed tone); participant explicitly states they brushed it off and it did NOT affect them, so no inner state.",
+  "R2": 2,
+  "R2_justification": "Surface with basic factual detail but entirely external; explicitly no emotional impact.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "2:21 PM 'I was at a Cafe with friends and the barista was rude'"
+ },
+ "8": {
+  "R1": 3,
+  "R1_justification": "Romantic dilemma where participant originates personal insecurity: developed feelings for a friend, fear of ruining the friendship, and 'I feel like I am only the option B' (the backup choice); borderline 2/3 tipped up by sensitive romantic topic.",
+  "R2": 5,
+  "R2_justification": "Substantial: reveals genuine personal insecurity (being second choice) and a real relational dilemma about her feelings.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "3:16 PM 'because of his distant behaviour...I decided to only stay friends. But now I have feelings for him'"
+ },
+ "14998": {
+  "R1": 1,
+  "R1_justification": "Factual complaint about a teammate's poorly designed presentation (big text blocks); the 'frustrating'/'disappointing' framing comes from the AI, and participant only states facts and waiting to see if he changes it.",
+  "R2": 2,
+  "R2_justification": "Surface with external detail about the presentation issue but no participant-originated inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "3:58 PM 'i really didnt like the way someone was presenting and making the project'"
+ },
+ "13990": {
+  "R1": 2,
+  "R1_justification": "Beyond the cousin-conflict facts, participant originates inner state: 'i didnt feel good', 'she always makes me the reason for our arguments', and ambivalence about her own boundary ('no...i still want contact but i think its the right thing'), plus being hurt by 'fair enough'.",
+  "R2": 4,
+  "R2_justification": "Moderate: engages hurt, ambivalence about the boundary, and the relational cost, though much emotional framing was AI-supplied with the participant agreeing.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "3:46 PM 'i didnt feel good. she always makes me the reason for our arguments'"
+ },
+ "13432": {
+  "R1": 2,
+  "R1_justification": "Largely surface/avoidant account of a jealous new friend, but participant originates a self-characterization (10:52): 'im the type of person who gets really quickly annoyed by someone', a mild inner-state signal.",
+  "R2": 3,
+  "R2_justification": "Emerging emotional tone: a self-trait/annoyance is named but not explored; rest is dismissive ('its useless to talk', 'thats her personality').",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "10:45 AM 'shes getting jealous and she tells me things a bit inappropriate'"
+ },
+ "15136": {
+  "R1": 2,
+  "R1_justification": "Beyond facts, participant originates inner state about her father: it 'feels weird when i want to talk to him about something important and he does not seem to listen', and feeling weird about writing a letter; reflects on feeling unheard by a caring but distant dad.",
+  "R2": 4,
+  "R2_justification": "Moderate: engages the feeling of not being heard and the relational gap with her father, briefly explored.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "9:26 AM 'i talked with my dad. and he did not listened...he is always in his head'"
+ },
+ "14521": {
+  "R1": 1,
+  "R1_justification": "Detailed but external account of a project-group dispute with a teammate who missed deadlines and lied about tutor feedback; participant only says she 'got a bit heated' (vague label, no elaboration), with 'infuriating'/'gaslighting' supplied by the AI.",
+  "R2": 2,
+  "R2_justification": "Surface: well-detailed external dispute, but the only emotion is a vague unelaborated label, so it stays external.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "9:37 AM 'a heated argument that i had with another student from my project group'"
+ },
+ "14317": {
+  "R1": 2,
+  "R1_justification": "Participant originates self-reflection on her own behavior/motivation (10:04): 'I did not want to hurt her I only wanted to even the playing field since she made a lot of fun of me the day prior', reflecting on intent after unintentionally hurting an insecure friend.",
+  "R2": 4,
+  "R2_justification": "Moderate: genuinely reflects on her own motivation and reaction, beyond mere facts.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "10:00 AM 'i made a joke about her not being in the top tier of my friends and she took that personally'"
+ },
+ "14566": {
+  "R1": 2,
+  "R1_justification": "Mostly a resolved factual account of an unmotivated tutorial group, but participant originates a brief inner-state signal: 'i hate when this happens cuz it drags me down aswell'.",
+  "R2": 3,
+  "R2_justification": "Emerging emotional tone: a feeling is named ('drags me down') but quickly dropped as the situation resolved ('it all worked out in the end').",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "10:21 AM 'my last tutorial group was a challenging experience...they wouldnt want to do any work'"
+ },
+ "14638": {
+  "R1": 1,
+  "R1_justification": "Factually recounts being selected for a board position the other girl wanted; only inner-content is predicting HER reaction ('i think she is going to be mad'), not his own inner state. External situation only.",
+  "R2": 2,
+  "R2_justification": "Situation with several factual details (selection, choices, she pre-announced it) but entirely external, no inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "i work together for a association with a girl and we both wanted to become part of next years board"
+ },
+ "13414": {
+  "R1": 1,
+  "R1_justification": "Factual recount of a friend buying only one ticket; resolved ('i was able to get a ticket... it was great') with no inner state, explicitly minimized ('she did not do it on purpose so its fine').",
+  "R2": 2,
+  "R2_justification": "Reasonably detailed external account of the miscommunication, no engagement with inner state.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "we wanted to go to a concert together and planed everything out... she only bought one ticket for herself"
+ },
+ "14398": {
+  "R1": 2,
+  "R1_justification": "Mostly party smalltalk, but self-reflects on own behaviour pattern: 'i always want to be more careful with it but when im drunk i just spend like i have unlimited money' \u2014 a brief self-aware admission of a recurring tension.",
+  "R2": 3,
+  "R2_justification": "An emotional/self-aware tone surfaces ('overspending', wanting to be careful) but is named and lightly engaged then dropped, not deeply explored.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "really fun but i spent too much money again"
+ },
+ "14173": {
+  "R1": 2,
+  "R1_justification": "Describes group-project leadership burden AND reveals inner conflict: 'i feel like i am always in charge' and 'im not super comfortable with calling them out since i really like them on the friendship side' \u2014 genuine discomfort he originates.",
+  "R2": 4,
+  "R2_justification": "Engages with the tension between wanting tasks done and protecting the friendship; person visible beyond the facts.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "i feel like they are not the most responsible ones and i feel like i am always in charge of leading the group"
+ },
+ "14020": {
+  "R1": 1,
+  "R1_justification": "Factual disagreement over travel destination (Ibiza vs Italy); 'thats the problem' is the only affect, no inner state about himself.",
+  "R2": 2,
+  "R2_justification": "Situation with basic factual detail (her reason: meeting an Italian man) but entirely external.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "i wanted to fly to ibiza with her but she wanted to go to italy"
+ },
+ "14923": {
+  "R1": 2,
+  "R1_justification": "Recounts a classmate getting offended over a music-app debate, with originated confusion/surprise: 'i didnt understand why' and 'i never though he was going to be offended like that' \u2014 a light inner-state (bafflement) signal he returns to.",
+  "R2": 3,
+  "R2_justification": "Emotional/confused tone present (surprise, not understanding) but named and only lightly engaged, focus stays on the incident.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "i had a bit of an argument with a classmate"
+ },
+ "14575": {
+  "R1": 1,
+  "R1_justification": "Long, detailed but purely external account of a lease dispute with the rental firm (mice, maintenance, lawyer); no inner state disclosed about himself.",
+  "R2": 2,
+  "R2_justification": "Situation elaborated with factual detail but entirely external, no inner state \u2014 a long dispute account with no inner world = surface.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "i would like to leave my appartment but my contract goes very long but it cant be legal"
+ },
+ "14959": {
+  "R1": 2,
+  "R1_justification": "Discloses a difficult talk with her dad about her boyfriend AND originates inner-state: worry about their future, 'i dont know how to structure my day when my partner is not doing the same things as me', and self-doubt 'i dont know if i can do it independantly'.",
+  "R2": 4,
+  "R2_justification": "Genuinely engages with relational worry, pressure and uncertainty about her own future; explored, not just named, but stays composed rather than rawly exposed.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "I had a difficult talk with my dad... About my boyfriend because he doesnt like him"
+ },
+ "14992": {
+  "R1": 0,
+  "R1_justification": "No personal disclosure at all; entirely an off-task career strategy discussion (commodity trading vs IB vs PE, compensation, Vitol). Nothing personal shared.",
+  "R2": 0,
+  "R2_justification": "No disclosure \u2014 off-task informational chat.",
+  "topic_sensitivity": "None",
+  "disclosure_start": "none"
+ },
+ "14209": {
+  "R1": 2,
+  "R1_justification": "Roommate noise conflict described WITH originated inner state: 'it really upset me', 'which is really annoying', and 'i dd not felt heard at all' \u2014 feeling dismissed is his own.",
+  "R2": 4,
+  "R2_justification": "Engages briefly with feeling unheard/upset beyond just naming it, though stays incident-focused and quickly pivots to solutions.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "about the niose in our house and it really upset me"
+ },
+ "16381": {
+  "R1": 1,
+  "R1_justification": "Factual recount of group members not pulling their weight; the only affect ('2 of us in the group were annoyed') is a vague label with no elaboration and partly attributed to others.",
+  "R2": 2,
+  "R2_justification": "Situation with good factual detail (deadlines, 5 members, lateness) but external; emotion named without elaboration.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "recently i had a challenging interation with people i am in a group project with"
+ },
+ "15250": {
+  "R1": 2,
+  "R1_justification": "Roommate conflict over washing mugs; originates genuine inner state: 'He made me feel uncomfortable at my own place... I will never like him' and 'I cant stand him anymore' \u2014 personal emotional impact, not just facts.",
+  "R2": 4,
+  "R2_justification": "Engages with feeling violated in his own home and a hardened emotional stance, beyond merely naming it, but stays tied to the incident.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "I had a little fight with my roommate and now I cant stand him anymore"
+ },
+ "14308": {
+  "R1": 2,
+  "R1_justification": "Discloses a delicate situation (a close friend is gay and into him while he is straight) AND originates inner state: 'don't know how to handle the situation' and confirms worry about hurting him/damaging the friendship.",
+  "R2": 4,
+  "R2_justification": "Genuinely engages with the dilemma and his worry about the friendship, exploring how to handle it, though composed and solution-oriented.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "I have this friend who I really care about but it turns out he is gay and into me. I am straight and don't know how to handle the situation"
+ },
+ "15160": {
+  "R1": 2,
+  "R1_justification": "Discusses two deaths at her grandma's elderly home and grandma's mortality/40 years of treatment with reflection; engages a sensitive topic with personal family meaning, though stays focused on grandma's coping rather than her own raw emotion.",
+  "R2": 4,
+  "R2_justification": "Reflective engagement on death, legacy and family, person visible beyond the facts, but the participant's own inner state stays composed rather than into raw personal vulnerability (5/6).",
+  "topic_sensitivity": "High",
+  "disclosure_start": "in the elderly home where my grandma lives, her friend and someone else she knew very well both passed away on the same day"
+ },
+ "14752": {
+  "R1": 1,
+  "R1_justification": "Describes receiving false critical feedback and plans a strategic/measured response; reasoning and value judgments ('lying is just wrong') but no personal inner state or vulnerability disclosed.",
+  "R2": 2,
+  "R2_justification": "Situation with factual and tactical detail but entirely external; moral reasoning, not inner-state engagement.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "someone from my tutorial group gave some critical feedback on a presentation that i did and the feedback wasnt true"
+ },
+ "25582": {
+  "R1": 1,
+  "R1_justification": "Names a group project where mates didn't contribute; only affect is the vague unelaborated label 'a bit stressful for me' and 'i just want to feel supportive', then drifts off-task to party planning.",
+  "R2": 2,
+  "R2_justification": "Brief situation with a little detail but no engaged inner state; vague stress label dropped, conversation pivots away.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "i have a group project but my group mates havent contributed anything"
+ },
+ "13597": {
+  "R1": 2,
+  "R1_justification": "Participant describes the train ordeal in France factually but adds inner-state signals: it was 'very frustrating', and reflectively admits 'i do now unfortunately have a prejudice about some french people' and 'i am not completely sure yet if it was worth it' (10:49-10:51), self-reflecting on his own reaction.",
+  "R2": 4,
+  "R2_justification": "Engages with inner state beyond naming it \u2014 the self-reflection on developing a prejudice and uncertainty about worth shows the person beyond the facts, but stays tied to the incident.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "i was in an unknown enviorment in france (10:45 AM)"
+ },
+ "15196": {
+  "R1": 1,
+  "R1_justification": "Factual account of an ongoing kitchen-cleanliness dispute with roommates, escalation to a coordinator, and resolution (11:51-11:54). Only a vague 'felt as if they didn't respect us' with no elaboration of inner world.",
+  "R2": 2,
+  "R2_justification": "Situation with multiple sentences of factual detail and context, but entirely external with no genuinely engaged inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "I had a disagreement with my roommates about keeping the kitchen clean (11:51 AM)"
+ },
+ "14215": {
+  "R1": 2,
+  "R1_justification": "Describes the roommate cleanliness confrontation factually, but originates inner-state content: 'how it is really bothering me' and 'i now feel like she is kind of disrespecting me' (12:42-12:44), reflecting on her own feelings, not just the AI's framing.",
+  "R2": 4,
+  "R2_justification": "Engages with her own feeling of being disrespected and bothered, going a little beyond naming, but stays focused on the incident.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "I live with a roommate... she started to get really messy (12:42 PM)"
+ },
+ "15247": {
+  "R1": 2,
+  "R1_justification": "Describes being kicked out of a bar by a bouncer factually, then originates a sensitive reflection: 'i also black so maybe that played a role too' (3:03), and 'i had no clue what was going on' \u2014 uncertainty plus a sensitive bias topic with emotional signal.",
+  "R2": 3,
+  "R2_justification": "An emotional/interpretive tone (confusion, suspicion of racial bias) is named and self-originated but not deeply explored before the episode trails off.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "i was in a bar with a couple of friend and all of asudden the bouncher kicked me out (3:00 PM)"
+ },
+ "13828": {
+  "R1": 0,
+  "R1_justification": "Entirely smalltalk about weather and the relative enjoyment of finance vs supply chain classes; no challenging interaction or personal disclosure is shared. 'i dont find it interesting' about a subject is not a personal disclosure.",
+  "R2": 0,
+  "R2_justification": "No situation of personal challenge described; purely casual conversation.",
+  "topic_sensitivity": "None",
+  "disclosure_start": "none"
+ },
+ "14491": {
+  "R1": 2,
+  "R1_justification": "Describes the unfair grade and tutor conflict factually, but originates self-reflection on her own behaviour ('I told him quite directly that his behaviour is unnecessary') and her stance ('its not that deep. Just expect more professionalism') (11:36-11:39), revealing how she views the interaction.",
+  "R2": 3,
+  "R2_justification": "An evaluative/emotional tone (sense of unfairness, minimizing 'not that deep') is named and self-originated but quickly dropped rather than explored.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "I recently received an unfair and harsh grade for my tutor (11:35 AM)"
+ },
+ "13804": {
+  "R1": 3,
+  "R1_justification": "Beyond the workplace situation, participant reveals a private insecurity: 'i could not stand up for myself', 'i was scared to get scolded by my actual manager, or disappoint them, because it is my first ever job', and ongoing uncertainty 'i will stand up more but i dont know to which extent' (12:02-12:05) \u2014 self-originated fear and vulnerability.",
+  "R2": 5,
+  "R2_justification": "Goes beyond the incident into personal meaning \u2014 a fear of disappointing authority and an ongoing struggle with assertiveness \u2014 but stays somewhat composed rather than raw/exposed.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "i was scared to get scolded by my actual manager, or disappoint them (12:03 PM)"
+ },
+ "3": {
+  "R1": 3,
+  "R1_justification": "Opens with a self-originated personal struggle: 'I get really nervous when I'm presenting' and 'I really struggled to get my words out logically', then engages with self-doubt about preparation and acknowledges the session 'was a bit boring' due to his own shortcomings (1:07-1:14) \u2014 vulnerability about a recurring personal anxiety.",
+  "R2": 5,
+  "R2_justification": "Reveals an ongoing personal struggle with presentation anxiety and honest self-critique beyond the single event, though stays reflective/composed rather than raw.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "I get really nervous when I'm presenting (1:07 PM)"
+ },
+ "13492": {
+  "R1": 2,
+  "R1_justification": "Describes the unresolved bill dispute with a moved-away roommate factually, but originates inner state: 'I definitely think that I am in the right but I dont want it to sound disrespectful or rude so thats why I am still thinking about it' (2:45) \u2014 uncertainty/conflict over how to act.",
+  "R2": 4,
+  "R2_justification": "Engages with her own internal conflict (wanting to be right yet not rude, deliberating what to say), showing the person beyond facts, tied to the incident.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "I recently had a conflict with a roommate about some bills (2:20 PM)"
+ },
+ "15067": {
+  "R1": 3,
+  "R1_justification": "Beyond the friend argument, participant reveals a personal insecurity: 'I am not the best at being in fierce arguments', 'I am not used to arguing loudly', felt 'overwhelmed', the feeling 'lingered', and crucially 'the fact that I couldnt handle the situation as well stuck with me for longer' (10:09-10:13) \u2014 self-originated struggle with conflict and lingering self-criticism.",
+  "R2": 5,
+  "R2_justification": "Reveals an ongoing personal struggle with handling conflict and self-doubt that lingered beyond the event, going into personal meaning rather than just the incident.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "I am not the best at being in fierce arguments (10:09 AM)"
+ },
+ "14962": {
+  "R1": 1,
+  "R1_justification": "Detailed factual account of a group-project free-rider problem, tutor mediation, and grade differentiation (11:08-11:14). Inner-state words come from the AI; participant only says 'I just left it in the past' and explicitly denies awkwardness, originating no inner state.",
+  "R2": 2,
+  "R2_justification": "Well-elaborated situation with context but entirely external; no genuine inner-state engagement originated by the participant.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "I had issues in a group work project because some of the members did not participate (11:08 AM)"
+ },
+ "14740": {
+  "R1": 1,
+  "R1_justification": "Factual account of a cousin repeatedly interrupting him at a family gathering and his choosing to let it go (11:39-11:45). The emotional words ('frustrating', 'understandable') come from the AI; participant only states facts and that he avoided bad feelings because the cousin 'is a good person but so intense'.",
+  "R2": 2,
+  "R2_justification": "Situation described with multiple sentences of detail but stays external; no inner state genuinely originated and engaged.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "I was in a familiar gathering with one cousin and my uncles... my cousin interrupted me (11:39 AM)"
+ },
+ "14422": {
+  "R1": 3,
+  "R1_justification": "Beyond describing friends who 'cant tell things the way they are', participant originates a vulnerable relational pattern: 'It does affect my relationship, it brings me to distance myself' and that this dishonesty applies to 'most of my friends', reflecting on his own pattern of withdrawal (11:49-11:54) \u2014 a personal struggle with trust/connection.",
+  "R2": 5,
+  "R2_justification": "Goes beyond a single incident into an ongoing relational consequence (distancing himself from most friends due to their lack of openness), something genuinely personal about his relationships.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "A good friend of mine just cant seem to be honest with me (11:48 AM)"
+ },
+ "14494": {
+  "R1": 3,
+  "R1_justification": "Beyond the confusing friend fallout, participant repeatedly originates raw emotion: 'i really value our friendship', 'this person was super important to me and i think that i am important to them', and 'i just feel hurt that i can never get that clarity' (12:17-12:20) \u2014 unguarded hurt and longing for closure.",
+  "R2": 5,
+  "R2_justification": "Reveals genuine personal significance and ongoing emotional pain (feeling hurt, stuck in limbo over a valued friendship), beyond the situation, though not fully raw/unpolished to the 6 level.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "i have this friend, and it seems like we had a disagreement but im not sure what about (12:14 PM)"
+ },
+ "15184": {
+  "R1": 2,
+  "R1_justification": "Describes a friend getting together with his ex and his cutting ties. Inner state surfaces mainly via probing: he admits the friend disregarded his feelings, calls it an 'ignorant decision' between 'very close friends', and reveals his calm was not authentic \u2014 'no' it wasn't natural, a conscious choice to 'not waste my energy' (12:28-12:32).",
+  "R2": 4,
+  "R2_justification": "Engages with inner state \u2014 admits his neutrality was a deliberate, inauthentic effort and that the betrayal hurt \u2014 but stays guarded/composed about the incident rather than reaching raw vulnerability.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "i had a friend tell me that he got together with my ex girlfriend after we broke up (12:26 PM)"
+ },
+ "13549": {
+  "R1": 1,
+  "R1_justification": "Factual account of negotiating a housing budget with parents to get a room in a shared house with friends, and a practical plan to pay part himself via a student job (10:45-10:48). Emotional framing ('limited', 'stress') comes from the AI; participant stays at facts and logistics.",
+  "R2": 2,
+  "R2_justification": "Situation with reasonable factual/contextual detail but entirely external and solution-focused; no genuine inner state originated.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "i had a hard interaction with my parents a few days ago (10:45 AM)"
+ },
+ "13486": {
+  "R1": 1,
+  "R1_justification": "Recounts forgetting to sell a concert ticket and the resulting misunderstanding with a friend as external facts; 'i apologized so from my side its resolved' is guarded closure with no participant-originated inner state.",
+  "R2": 2,
+  "R2_justification": "Multi-sentence factual account with context but entirely external, no inner state.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "We had tickets for a concert but i didnt really listened to the band"
+ },
+ "13750": {
+  "R1": 2,
+  "R1_justification": "Group-project conflict where participant originates a fear ('i am scared that others would think i am a drama queen') and uncertainty ('i dont know what to do rn'), revealing inner state beyond the facts.",
+  "R2": 4,
+  "R2_justification": "Genuinely engages with inner state (fear of being seen as a drama queen, indecision), not just naming an emotion.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "i am scared that others would think i am a drama queen"
+ },
+ "13849": {
+  "R1": 2,
+  "R1_justification": "Detailed romantic-relationship disagreement about trip planning; participant originates annoyance and relational friction ('which is a little annoying', repeated unmet promises), some inner state but stays about the incident.",
+  "R2": 4,
+  "R2_justification": "Inner state (annoyance, worry about budget/relationship) engaged beyond mere naming, person visible behind the facts.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "we had a disagreement on our summer plans"
+ },
+ "14260": {
+  "R1": 1,
+  "R1_justification": "Complaint about an econometrics tutor who couldn't teach; 'boring and exhausting' refers to the course, not personal inner state. Entirely external.",
+  "R2": 2,
+  "R2_justification": "Reasonably elaborated factual account of the course/tutor, no inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "our tutor was not the best so we didnt learn much there"
+ },
+ "14614": {
+  "R1": 2,
+  "R1_justification": "Friend/gas-money conflict; participant originates emotion and self-reflection ('i was feeling bad to ask her', 'i end up a bit shouting', 'i feel so bad to ask money', 'i hate depend on people').",
+  "R2": 4,
+  "R2_justification": "Engages inner state and reflects on own reaction (guilt, shouting, valuing independence), not just named.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "she didnt want to pay the gas but i was feeling bad to ask her"
+ },
+ "14764": {
+  "R1": 1,
+  "R1_justification": "Roommate-choice situation that 'all worked out good at the end'; purely external resolution with no inner state originated by the participant.",
+  "R2": 2,
+  "R2_justification": "Situation with basic detail, entirely external, no inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "I had to decide on which of my friends I was going to live with"
+ },
+ "14665": {
+  "R1": 2,
+  "R1_justification": "Roommate-tidiness conflict where participant originates inner state: 'i feel like that i am always the one cleaning', 'i got annoyed and just stayed at a friends house', apologies but 'still nothing really changed'.",
+  "R2": 4,
+  "R2_justification": "Engages inner state (feeling unfairly burdened, annoyance, acting on it), not merely named.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "i feel like that i am always the one cleaning up"
+ },
+ "14767": {
+  "R1": 2,
+  "R1_justification": "Unreliable tutorial-group member; participant originates the uncertainty 'I dont really know how to approach this situation and how to tell him', which the rubric counts as an inner-state signal tipping to 2.",
+  "R2": 4,
+  "R2_justification": "Uncertainty about how to act is engaged briefly rather than just an external complaint.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "I dont really know how to approach this situation"
+ },
+ "14413": {
+  "R1": 2,
+  "R1_justification": "Feeling like an outsider with flatmates; participant originates a genuine feeling of loneliness ('sometimes it make me feel alone', 'i m not a jealuse person but'), brief but self-revealing inner state.",
+  "R2": 4,
+  "R2_justification": "Loneliness/exclusion engaged as inner state, though still fairly guarded.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "sometimes i fell like we are a little separate"
+ },
+ "14236": {
+  "R1": 2,
+  "R1_justification": "Romantic interest who grew distant; participant originates confusion and rumination ('i didnt understand what i did wrong', still thinking about her, deciding to keep distance) before drifting into an EV/car tangent.",
+  "R2": 4,
+  "R2_justification": "Inner state (confusion, lingering preoccupation) engaged before the topic shifts, person visible beyond facts.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "it got more distand and i didnt understand what i did wrong"
+ },
+ "14110": {
+  "R1": 2,
+  "R1_justification": "Drunken night-out fallout with a friend; strong participant-originated self-reflection ('i wasnt really acting as myself', 'i definitely overreacted', 'i still said some things i probably shouldnt have') with ongoing relational consequence, but stays composed/about the incident.",
+  "R2": 4,
+  "R2_justification": "Substantive engagement with own behaviour and reaction, reflective rather than raw or self-exposing.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "i personally wasnt really acting as myself"
+ },
+ "14815": {
+  "R1": 2,
+  "R1_justification": "Roommate kitchen-cleanliness disagreement; participant originates inner state ('I feel disrespected', 'It feels very bad and I dont know what to do about it') beyond the external facts.",
+  "R2": 4,
+  "R2_justification": "Engages inner state (feeling disrespected, hurt by hypocrisy, helplessness), not just named.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "Im a really clean person and I feel disrespected"
+ },
+ "14848": {
+  "R1": 2,
+  "R1_justification": "Ex-friend confronting the participant at a festival after spreading rumours; participant originates 'i was more disappointed because she used to tell me that I'm her best friend' and 'treated me more as a servant and personal diary than as a friend' \u2014 genuine relational hurt.",
+  "R2": 4,
+  "R2_justification": "Disappointment and felt betrayal engaged with relational meaning, though it stays focused on the incident rather than raw self-exposure.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "she used to tell me that I'm her best friend"
+ },
+ "16495": {
+  "R1": 1,
+  "R1_justification": "Trivial argument with a friend over Barcelona vs Real Madrid; only external description ('heated', 'he was really angry') and a request for advice, no participant inner state.",
+  "R2": 2,
+  "R2_justification": "Situation named with minimal external detail across short turns, no inner state.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "I had a argument with a friend of mine today"
+ },
+ "15046": {
+  "R1": 2,
+  "R1_justification": "Largely a positive recount of attending an event without her friend and meeting someone new; tips to 2 only via the self-originated reflection 'I still need to get used to it. sometimes i'm very comfortable and other times not at all'.",
+  "R2": 3,
+  "R2_justification": "Emotional/self-aware tone (social discomfort) present but only lightly engaged, mostly external positive narrative.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "I still need to get used to it. sometimes i'm very confortable and other times not at all"
+ },
+ "14041": {
+  "R1": 2,
+  "R1_justification": "Telling a friend she couldn't attend her birthday; participant originates fear and avoidance ('i was afraid of her reaction', 'i dragged it a long time because i was afraid', 'i didnt want to dissapoint her').",
+  "R2": 4,
+  "R2_justification": "Inner state (anxiety, avoidance, relief) engaged and reflected on, not merely named.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "i didnt want to dissapoint her"
+ },
+ "15181": {
+  "R1": 2,
+  "R1_justification": "Participant describes a fight with a friend (12:02) and originates inner-state: 'i felt really attackt because he said stuff i didnt do', plus admits forgetting a promise; situation + own emotional reaction.",
+  "R2": 4,
+  "R2_justification": "Genuinely engages with feeling attacked/hurt and own fault, not just a named label.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "12:02 PM 'i had a fight disagrement with a friend and i felt really attackt'"
+ },
+ "15256": {
+  "R1": 2,
+  "R1_justification": "Beyond the factual tutor comment (12:36), participant originates inner state: feels it's 'so unfair... he has prejudices' and 'i care a lot about my gpa' with worry about academic performance.",
+  "R2": 3,
+  "R2_justification": "Emotional concern (unfairness, worry about GPA) is named/lightly engaged but stays on the external grievance.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "12:36 PM 'my uni tutor told me that for all our team presentations we wont receive a grade higher than 8,5'"
+ },
+ "15013": {
+  "R1": 2,
+  "R1_justification": "Sensitive topic (parents' divorce, 8:55) plus participant-originated inner state: 'not really good as I was very close with both', feeling used to relay messages and unheard; coping struggle.",
+  "R2": 4,
+  "R2_justification": "Engages with how it affects him (caught in the middle, coping not always working) beyond just naming the event, but stays relatively composed.",
+  "topic_sensitivity": "High",
+  "disclosure_start": "8:55 AM 'My parents got divorced and dont handle it very well'"
+ },
+ "13534": {
+  "R1": 2,
+  "R1_justification": "Detailed roommate-conflict account (9:24) plus participant-originated inner state: avoids the house, locks self in room, and 'sometimes i feel like im happier when shes not around'.",
+  "R2": 4,
+  "R2_justification": "Engages with own feelings/behaviour (isolation, being happier alone) beyond the incident, not just naming an emotion.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "9:24 AM 'we argued last night because our laundry machine doesn't work anymore'"
+ },
+ "14431": {
+  "R1": 2,
+  "R1_justification": "Describes Bayern's elimination (10:25) and originates inner state: 'I am a bit sad and it was quite challenging to digest', plus reflection on processing it over a day.",
+  "R2": 3,
+  "R2_justification": "Emotion (sadness, disappointment) is named and lightly reflected on but low-stakes and quickly reframed toward optimism.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "10:25 AM 'I am a bit sad and it was quite challenging to digest'"
+ },
+ "16435": {
+  "R1": 2,
+  "R1_justification": "Describes being put in a role without training (9:41) and originates a self-conscious inner state: 'i feel kinda ashamed to reach out' and fear the boss will 'think they hired the wrong person'.",
+  "R2": 4,
+  "R2_justification": "Engages with shame and the insecurity of being judged inadequate, beyond merely naming a feeling.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "9:41 AM 'I have to manage now without training so I dont really know what I\\'m doing'"
+ },
+ "14725": {
+  "R1": 2,
+  "R1_justification": "Apartment-hunt stress (9:47) plus participant-originated inner state: it 'was very disturbing', 'a huge topic for me', felt family underestimated and didn't take his concerns seriously.",
+  "R2": 4,
+  "R2_justification": "Engages with feeling dismissed by family and the personal weight of the issue, not just naming stress.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "9:47 AM 'i was still constantly looking... this toppic was very distrubing during the vacation but also in my family'"
+ },
+ "14836": {
+  "R1": 1,
+  "R1_justification": "Describes a friend disagreement over a travel destination (9:19) that was 'resolved by coming to a mutual agreement'; purely factual, no inner state, then pivots to asking for interview advice.",
+  "R2": 2,
+  "R2_justification": "Situation with a little context but entirely external and already resolved, no inner-state engagement.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "9:19 AM 'i had some disagreements with a friend... was about where we want to travel'"
+ },
+ "13999": {
+  "R1": 2,
+  "R1_justification": "Detailed best-friend fairness conflict (10:03) plus participant-originated inner state: frames it as a 'moral difference... which i feel like cant be resolved' and 'i would never do that to my best friend', revealing values and hurt.",
+  "R2": 4,
+  "R2_justification": "Engages with the personal/relational meaning (sense of unfairness, contrast with own values) beyond just recounting the incident.",
+  "topic_sensitivity": "Medium",
+  "disclosure_start": "10:03 AM 'its like a moral difference between her and me which i feel like cant be resolved'"
+ },
+ "14887": {
+  "R1": 1,
+  "R1_justification": "Recounts a non-participating group (9:07) and focuses on practical steps and 'it is my grade on the line'; frustration implied but not engaged, no real inner-state disclosure.",
+  "R2": 2,
+  "R2_justification": "Situation with factual detail and a grade-protection stance, entirely external.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "9:07 AM 'i had a group work for uni and unfortunately my team was not participating'"
+ },
+ "15028": {
+  "R1": 2,
+  "R1_justification": "Describes a language-barrier encounter (10:13) and originates inner state: it 'was quite uncomfortable since we both didnt know what to do or how to end the interaction' (uncertainty/discomfort).",
+  "R2": 3,
+  "R2_justification": "Discomfort and not-knowing-what-to-do are named but only lightly engaged, then reframed into a positive takeaway.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "10:13 AM 'i met a new person... he was not able to speek englisch and i was not able to speak his language'"
+ },
+ "16450": {
+  "R1": 1,
+  "R1_justification": "Describes group members not preparing (12:38) and choosing to do their work; explicitly states 'I am not worried at all how they react... all I want is a good presentation', so account stays external and goal-focused.",
+  "R2": 2,
+  "R2_justification": "Situation with factual detail but no engaged inner state; participant disavows emotional stakes.",
+  "topic_sensitivity": "Low",
+  "disclosure_start": "12:38 PM 'My group member did not participate during the meeting or not even prepared'"
+ }
+}

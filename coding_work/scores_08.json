@@ -1,0 +1,130 @@
+{
+  "14638": {
+    "R1": 1,
+    "R1_justification": "Factually recounts being selected for a board position the other girl wanted; only inner-content is predicting HER reaction ('i think she is going to be mad'), not his own inner state. External situation only.",
+    "R2": 2,
+    "R2_justification": "Situation with several factual details (selection, choices, she pre-announced it) but entirely external, no inner state.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "i work together for a association with a girl and we both wanted to become part of next years board"
+  },
+  "13414": {
+    "R1": 1,
+    "R1_justification": "Factual recount of a friend buying only one ticket; resolved ('i was able to get a ticket... it was great') with no inner state, explicitly minimized ('she did not do it on purpose so its fine').",
+    "R2": 2,
+    "R2_justification": "Reasonably detailed external account of the miscommunication, no engagement with inner state.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "we wanted to go to a concert together and planed everything out... she only bought one ticket for herself"
+  },
+  "14398": {
+    "R1": 2,
+    "R1_justification": "Mostly party smalltalk, but self-reflects on own behaviour pattern: 'i always want to be more careful with it but when im drunk i just spend like i have unlimited money' — a brief self-aware admission of a recurring tension.",
+    "R2": 3,
+    "R2_justification": "An emotional/self-aware tone surfaces ('overspending', wanting to be careful) but is named and lightly engaged then dropped, not deeply explored.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "really fun but i spent too much money again"
+  },
+  "14173": {
+    "R1": 2,
+    "R1_justification": "Describes group-project leadership burden AND reveals inner conflict: 'i feel like i am always in charge' and 'im not super comfortable with calling them out since i really like them on the friendship side' — genuine discomfort he originates.",
+    "R2": 4,
+    "R2_justification": "Engages with the tension between wanting tasks done and protecting the friendship; person visible beyond the facts.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "i feel like they are not the most responsible ones and i feel like i am always in charge of leading the group"
+  },
+  "14020": {
+    "R1": 1,
+    "R1_justification": "Factual disagreement over travel destination (Ibiza vs Italy); 'thats the problem' is the only affect, no inner state about himself.",
+    "R2": 2,
+    "R2_justification": "Situation with basic factual detail (her reason: meeting an Italian man) but entirely external.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "i wanted to fly to ibiza with her but she wanted to go to italy"
+  },
+  "14923": {
+    "R1": 2,
+    "R1_justification": "Recounts a classmate getting offended over a music-app debate, with originated confusion/surprise: 'i didnt understand why' and 'i never though he was going to be offended like that' — a light inner-state (bafflement) signal he returns to.",
+    "R2": 3,
+    "R2_justification": "Emotional/confused tone present (surprise, not understanding) but named and only lightly engaged, focus stays on the incident.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "i had a bit of an argument with a classmate"
+  },
+  "14575": {
+    "R1": 1,
+    "R1_justification": "Long, detailed but purely external account of a lease dispute with the rental firm (mice, maintenance, lawyer); no inner state disclosed about himself.",
+    "R2": 2,
+    "R2_justification": "Situation elaborated with factual detail but entirely external, no inner state — a long dispute account with no inner world = surface.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "i would like to leave my appartment but my contract goes very long but it cant be legal"
+  },
+  "14959": {
+    "R1": 2,
+    "R1_justification": "Discloses a difficult talk with her dad about her boyfriend AND originates inner-state: worry about their future, 'i dont know how to structure my day when my partner is not doing the same things as me', and self-doubt 'i dont know if i can do it independantly'.",
+    "R2": 4,
+    "R2_justification": "Genuinely engages with relational worry, pressure and uncertainty about her own future; explored, not just named, but stays composed rather than rawly exposed.",
+    "topic_sensitivity": "High",
+    "disclosure_start": "I had a difficult talk with my dad... About my boyfriend because he doesnt like him"
+  },
+  "14992": {
+    "R1": 0,
+    "R1_justification": "No personal disclosure at all; entirely an off-task career strategy discussion (commodity trading vs IB vs PE, compensation, Vitol). Nothing personal shared.",
+    "R2": 0,
+    "R2_justification": "No disclosure — off-task informational chat.",
+    "topic_sensitivity": "None",
+    "disclosure_start": "none"
+  },
+  "14209": {
+    "R1": 2,
+    "R1_justification": "Roommate noise conflict described WITH originated inner state: 'it really upset me', 'which is really annoying', and 'i dd not felt heard at all' — feeling dismissed is his own.",
+    "R2": 4,
+    "R2_justification": "Engages briefly with feeling unheard/upset beyond just naming it, though stays incident-focused and quickly pivots to solutions.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "about the niose in our house and it really upset me"
+  },
+  "16381": {
+    "R1": 1,
+    "R1_justification": "Factual recount of group members not pulling their weight; the only affect ('2 of us in the group were annoyed') is a vague label with no elaboration and partly attributed to others.",
+    "R2": 2,
+    "R2_justification": "Situation with good factual detail (deadlines, 5 members, lateness) but external; emotion named without elaboration.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "recently i had a challenging interation with people i am in a group project with"
+  },
+  "15250": {
+    "R1": 2,
+    "R1_justification": "Roommate conflict over washing mugs; originates genuine inner state: 'He made me feel uncomfortable at my own place... I will never like him' and 'I cant stand him anymore' — personal emotional impact, not just facts.",
+    "R2": 4,
+    "R2_justification": "Engages with feeling violated in his own home and a hardened emotional stance, beyond merely naming it, but stays tied to the incident.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "I had a little fight with my roommate and now I cant stand him anymore"
+  },
+  "14308": {
+    "R1": 2,
+    "R1_justification": "Discloses a delicate situation (a close friend is gay and into him while he is straight) AND originates inner state: 'don't know how to handle the situation' and confirms worry about hurting him/damaging the friendship.",
+    "R2": 4,
+    "R2_justification": "Genuinely engages with the dilemma and his worry about the friendship, exploring how to handle it, though composed and solution-oriented.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "I have this friend who I really care about but it turns out he is gay and into me. I am straight and don't know how to handle the situation"
+  },
+  "15160": {
+    "R1": 2,
+    "R1_justification": "Discusses two deaths at her grandma's elderly home and grandma's mortality/40 years of treatment with reflection; engages a sensitive topic with personal family meaning, though stays focused on grandma's coping rather than her own raw emotion.",
+    "R2": 4,
+    "R2_justification": "Reflective engagement on death, legacy and family, person visible beyond the facts, but the participant's own inner state stays composed rather than into raw personal vulnerability (5/6).",
+    "topic_sensitivity": "High",
+    "disclosure_start": "in the elderly home where my grandma lives, her friend and someone else she knew very well both passed away on the same day"
+  },
+  "14752": {
+    "R1": 1,
+    "R1_justification": "Describes receiving false critical feedback and plans a strategic/measured response; reasoning and value judgments ('lying is just wrong') but no personal inner state or vulnerability disclosed.",
+    "R2": 2,
+    "R2_justification": "Situation with factual and tactical detail but entirely external; moral reasoning, not inner-state engagement.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "someone from my tutorial group gave some critical feedback on a presentation that i did and the feedback wasnt true"
+  },
+  "25582": {
+    "R1": 1,
+    "R1_justification": "Names a group project where mates didn't contribute; only affect is the vague unelaborated label 'a bit stressful for me' and 'i just want to feel supportive', then drifts off-task to party planning.",
+    "R2": 2,
+    "R2_justification": "Brief situation with a little detail but no engaged inner state; vague stress label dropped, conversation pivots away.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "i have a group project but my group mates havent contributed anything"
+  }
+}

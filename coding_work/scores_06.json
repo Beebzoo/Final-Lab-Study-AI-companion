@@ -1,0 +1,130 @@
+{
+  "14854": {
+    "R1": 2,
+    "R1_justification": "Participant discloses failing a course and lying to parents (didn't participate), and originates the protective motive 'I didn't want them to stress about my school and my motivation' (9:38) — self-reflective inner state, not just facts.",
+    "R2": 4,
+    "R2_justification": "Engages briefly with own reasoning/guilt around the lie rather than just naming an emotion, but stays guarded; deflects when AI pushes.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "9:37 'i have failed my last course... i lied to them'"
+  },
+  "16426": {
+    "R1": 2,
+    "R1_justification": "Beyond the factual missed deadline, participant originates inner reflection: 'I experienced how bad it feels it wont happen again (short-term). But I dont know if it will be a lasting effect' (9:32) — self-reflection on own behaviour.",
+    "R2": 4,
+    "R2_justification": "Reflects on the experience and its likely durability rather than just naming disappointment, though deflects ('dont know fam') when probed further.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "9:29 'I missed a deadline for an apllication'"
+  },
+  "14158": {
+    "R1": 2,
+    "R1_justification": "Describes a friend cutting contact after a semi-romantic relationship and originates self-reflection/regret: 'i was never decisive on what i wanted' and 'maybe should have never let the friendship develop into something romantic' (11:09-11:11).",
+    "R2": 4,
+    "R2_justification": "Reflects on own indecisiveness and regret over the relational consequence, beyond just naming facts.",
+    "topic_sensitivity": "High",
+    "disclosure_start": "11:07 'i have a friend that doesnt want to talk to me anymore'"
+  },
+  "13507": {
+    "R1": 2,
+    "R1_justification": "Beyond describing the noisy housemate, participant originates inner state: 'I feel like I should have said something in the beginning... now it seems too late' and 'I find confrontation so tricky! I don't like complaining' (10:56, 10:58).",
+    "R2": 4,
+    "R2_justification": "Engages with own discomfort about confrontation rather than just naming it, revealing a small self-trait, but stays incident-focused.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "10:54 'My housemate is really getting on my nerves'"
+  },
+  "13444": {
+    "R1": 2,
+    "R1_justification": "Describes friend ending contact after a semi-romantic relationship; participant originates self-reflection/regret 'i was never decisive on what i wanted' and 'maybe should have never let the friendship develop into something romantic' (11:09-11:11).",
+    "R2": 4,
+    "R2_justification": "Reflects on own indecision and the relational fallout, exploring rather than just naming.",
+    "topic_sensitivity": "High",
+    "disclosure_start": "11:07 'i have a friend that doesnt want to talk to me anymore'"
+  },
+  "13783": {
+    "R1": 2,
+    "R1_justification": "Mostly factual account of group assignment, but participant originates inner state about self-standard: 'i feel like im nott prepared enough. or at least not at the level i would normally like to' (12:00).",
+    "R2": 4,
+    "R2_justification": "Briefly engages with a self-imposed standard and feeling underprepared, beyond naming the workload, though remains task-focused.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "11:56 'a challenging siutation i had with my tutorial group'"
+  },
+  "14293": {
+    "R1": 2,
+    "R1_justification": "Describes driving test and originates emotional inner state: 'i had already failed it the first time so i was super stressed' and 'i was shaking so much' (11:25), elaborating the felt reaction.",
+    "R2": 4,
+    "R2_justification": "Engages with the bodily/emotional stress reaction rather than just naming it, though it resolves quickly into smalltalk.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "11:24 'i had to pass my driver's license, it was a horrible moment'"
+  },
+  "13627": {
+    "R1": 2,
+    "R1_justification": "Describes juggling uni/family/boyfriend; participant originates mild self-pressure inner state 'im stressing a bit to cover everything... without letting anyone behind' (11:40), but repeatedly minimizes ('nothing specific').",
+    "R2": 3,
+    "R2_justification": "Emotional tone (self-imposed pressure not to let people down) is named but only lightly engaged; she keeps deflecting into logistics.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "11:38 'its just been quite stresssful the last few weeks'"
+  },
+  "14152": {
+    "R1": 2,
+    "R1_justification": "Describes friend's silent treatment over a trip and originates inner state and relational reflection: 'its so exhausting sometimes' and 'I dont know how close I want to keep that friendship' (12:03-12:04).",
+    "R2": 4,
+    "R2_justification": "Genuinely explores emotional exhaustion and ambivalence/reassessment of the friendship, beyond just naming the conflict.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "11:59 'one of them had a free day and proposed going on a day trip... my other friend got mad at me'"
+  },
+  "13351": {
+    "R1": 2,
+    "R1_justification": "Describes teammate dismissing her and originates inner state: frustration plus self-doubt 'this feeling is not neceserally objectively confirmed' and fear 'what if it al plays out bad' (12:27-12:29).",
+    "R2": 4,
+    "R2_justification": "Engages with own uncertainty about whether the gender-based perception is valid and anxiety about confronting it, not just naming frustration.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "12:04 'when I say something he kinda ignores it but when my male teammember says something he immidiatly listens... because of my gender'"
+  },
+  "13528": {
+    "R1": 1,
+    "R1_justification": "Factual account of a Vinted buyer cancelling; participant explicitly minimizes any inner state ('Pretty much a non problem', 'little negative impact on me', 12:11-12:14). No engaged inner world.",
+    "R2": 2,
+    "R2_justification": "Situation described with some detail but entirely external; annoyance named and immediately dismissed.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "12:07 'I was selling something on Vinted and the customer cancelled their order'"
+  },
+  "14722": {
+    "R1": 1,
+    "R1_justification": "Largely a practical follow-up about catching up on workload/library efficiency; the one self-insight ('dont please people just because it feels better going with them', 12:44) is a throwaway not returned to or elaborated.",
+    "R2": 2,
+    "R2_justification": "Reasonably detailed but external/logistical planning; no sustained inner-state engagement.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "12:42 'im a little behind with my studies'"
+  },
+  "14770": {
+    "R1": 2,
+    "R1_justification": "Describes grade dispute with a tutor and originates inner state: discomfort and insecurity 'i feel weird bringing it up again', 'i don't know if i feel comfortable', and 'rather make me look stupid' (3:02-3:06).",
+    "R2": 4,
+    "R2_justification": "Engages with own discomfort and fear of looking stupid/conflict, beyond just recounting the disagreement.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "3:00 'a disagreement with one of my tutors... our presentation wasn't what was asked for and i disagree'"
+  },
+  "10": {
+    "R1": 1,
+    "R1_justification": "Detailed but external account of thesis feedback and procrastination; 'time-consuming and stressful' is a vague emotional label without elaboration, with the rest focused on logistics/scheduling (3:34-3:36).",
+    "R2": 2,
+    "R2_justification": "Situation well elaborated factually but inner state only named in passing, then dropped into practical planning.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "3:31 'feedback from my thesis supervisor which i was procastinating a lot with'"
+  },
+  "14182": {
+    "R1": 3,
+    "R1_justification": "Beyond the friendship situation, participant reveals raw insecurity: 'she even called the other girl her best friend in front of me which really hurt my feelings', 'i compare myself a lot... she is just better and i never feel great around her', plus unhealthy grade stress (3:44-3:48).",
+    "R2": 5,
+    "R2_justification": "Goes into personal meaning and an ongoing struggle (self-confidence, comparison, unhealthy stress), genuinely self-revealing rather than composed, though not fully raw.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "3:44 'got close with a really nice girl... i felt like the third wheel... which really hurt my feelings'"
+  },
+  "14974": {
+    "R1": 2,
+    "R1_justification": "Describes fight with mom and originates inner state: refusal to initiate, need for accountability, and 'i still belive i am in the right and i know i am' / 'sometimes you need to stand your ground' (3:59-4:04).",
+    "R2": 4,
+    "R2_justification": "Engages with own stance, frustration and need for a sincere apology and validation, beyond just naming the argument, but stays guarded/justified.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "3:54 'i recently had a fight with my mom'"
+  }
+}

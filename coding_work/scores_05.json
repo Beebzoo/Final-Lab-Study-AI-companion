@@ -1,0 +1,130 @@
+{
+  "14023": {
+    "R1": 1,
+    "R1_justification": "Detailed factual account of roommate leaving dirty dishes despite a cleaning schedule (turns ~03:53-05:01); only vague labels ('it really annoys me', 'that's frustrating' is AI-supplied) with no inner-state elaboration.",
+    "R2": 2,
+    "R2_justification": "Situation given with multiple sentences of external context but entirely factual, no inner state engaged.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "03:28 'I recently had an argument with my roommate'"
+  },
+  "14698": {
+    "R1": 1,
+    "R1_justification": "Smalltalk about a party, finance class and exams; 'I have high expectations to myself' is a faint self-reference but no challenge or inner-state struggle is engaged (turns ~00:54-03:13).",
+    "R2": 2,
+    "R2_justification": "Several sentences of everyday factual detail about social/study life, no inner state explored.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "02:53 'I have high expectations to myself, so I want to get a really good grade'"
+  },
+  "14437": {
+    "R1": 2,
+    "R1_justification": "Recounts someone watching through window and roommates over-helping, then reveals own inner state: 'it was awkward for me', 'I guess it was just me... it's more about how I'm processing it', plans to tell them how it made her feel (turns ~00:11-02:32).",
+    "R2": 4,
+    "R2_justification": "Engages with own awkwardness and self-reflection on how she is processing it, but stays incident-bound and composed.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:11 'there was, like, some inconvenience happening for me, and everyone was, like, trying to help me, and that was a bit awkward'"
+  },
+  "14266": {
+    "R1": 1,
+    "R1_justification": "Describes cleanliness/personal-space tension in a 12-person house; 'it's really hard' and 'I don't know how to say it' are vague, unelaborated labels, account stays external and advice-seeking (turns ~00:38-04:16).",
+    "R2": 2,
+    "R2_justification": "Reasonably elaborated external situation, but no inner state genuinely engaged.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:38 'I live in a house with 12 other people... it's really hard because everybody needs their personal space'"
+  },
+  "15079": {
+    "R1": 1,
+    "R1_justification": "Factual roommate-dishes complaint; 'I'm done with that' and 'I hope she will listen' are minimal, with the participant mostly agreeing to AI's suggested scripts (turns ~00:28-02:21).",
+    "R2": 2,
+    "R2_justification": "Situation with some factual detail but external; no inner state explored.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:28 'I have a problem with my roommate and she doesn't want to clean the dishes'"
+  },
+  "14245": {
+    "R1": 1,
+    "R1_justification": "Detailed factual narration of roommates leaving dirty dishes and their dismissive replies, including a deliberate test ('I waited on purpose... it was still disgusting'); emotional framing is largely AI-supplied and no inner state is engaged (chat ~2:14-2:18 PM).",
+    "R2": 2,
+    "R2_justification": "Well-detailed external account of the dispute, entirely factual with no inner state.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "2:15 PM 'they keep leaving dirty dishes on the sink while the dishwasher is clean'"
+  },
+  "14710": {
+    "R1": 1,
+    "R1_justification": "Recounts rescheduling a dinner reservation when his mom forgot his appointment; calls it 'quite hard to navigate' but then says 'it wasn't that of a hard situation, was basically okay' - purely factual, resolved, no inner state (turns ~01:09-03:38).",
+    "R2": 2,
+    "R2_justification": "Situation with factual detail and an explicitly downplayed difficulty, no inner state engaged.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "01:09 'that was when we had to book a table for a dinner reservation because my mom forgot that I had another appointment'"
+  },
+  "16475": {
+    "R1": 0,
+    "R1_justification": "Entire conversation is about testing the AI (jokes, what it can see, its database, how it differs from other models); nothing personal is disclosed.",
+    "R2": 0,
+    "R2_justification": "No disclosure; off-task probing of the AI throughout.",
+    "topic_sensitivity": "None",
+    "disclosure_start": "none"
+  },
+  "15199": {
+    "R1": 1,
+    "R1_justification": "Factual account of a roommate refusing to clean the kitchen ('still no reaction', 'I just said on the fly'); emotional words like 'frustrating' are AI-supplied and the participant stays guarded/advice-seeking (turns ~00:32-03:18).",
+    "R2": 2,
+    "R2_justification": "Elaborated external situation, no genuine inner state engaged.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:32 'challenges with a roommate of mine regarding cleaning the kitchen and other sharing areas'"
+  },
+  "13": {
+    "R1": 3,
+    "R1_justification": "Raw, self-originated vulnerability about living with Crohn's: pressure to show up while feeling unwell, becoming 'more introverted', fear of 'leeching for support', and 'the stress is the worst... it's what hits the most' - sustained emotional exposure across many turns (00:18-07:14).",
+    "R2": 6,
+    "R2_justification": "Intimate, unpolished self-revelation of ongoing health and emotional struggle with personal/relational significance.",
+    "topic_sensitivity": "High",
+    "disclosure_start": "00:18 'I have a chronic condition. I have Crohn's disease... it's a bit of a struggle sometimes'"
+  },
+  "15211": {
+    "R1": 2,
+    "R1_justification": "Describes a new friend over-relying on her in a group project and reveals inner state: 'I don't know how to tell her', 'it kind of felt off, I feel like you can feel that in the friendship', worry it affects the friendship (turns ~00:28-03:43).",
+    "R2": 4,
+    "R2_justification": "Genuinely engages with uncertainty and the felt relational tension, but stays fairly composed and incident-focused.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:28 'it's just hard to communicate with her, especially because I don't know how to tell her that she has to contribute her part'"
+  },
+  "13873": {
+    "R1": 2,
+    "R1_justification": "Recounts a festival argument with a friend over leaving early; reveals 'it kind of hurt me that I couldn't see the artist' and reflects on her own pushing vs the friend's exhaustion (turns ~00:14-02:21).",
+    "R2": 4,
+    "R2_justification": "Emotion (hurt) named and briefly explored alongside self-reflection on her behaviour, but solution-focused and composed.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:38 'we were deciding on what time we wanted to leave because I really wanted to see an artist'"
+  },
+  "14272": {
+    "R1": 1,
+    "R1_justification": "Logistical dilemma of balancing visiting grandparents with study deadlines; 'I don't know how to tell them' is a single unelaborated uncertainty with no further inner state, then agrees to AI scripts (turns ~00:19-03:02).",
+    "R2": 2,
+    "R2_justification": "Situation with some factual context but inner state only faintly named, not engaged.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:45 'My grandparents are here right now... I don't know how to tell them that I have to study'"
+  },
+  "19636": {
+    "R1": 2,
+    "R1_justification": "Describes a friend becoming distant and reveals inner state: 'it's been very difficult for me to comprehend', 'I don't know what to do', and his read that she's not putting in effort; returns to the uncertainty across turns (00:34-03:11).",
+    "R2": 4,
+    "R2_justification": "Engages with confusion/uncertainty about the friendship but stays guarded and incident-bound.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:40 'she's been very distant, and it's been very difficult for me to comprehend'"
+  },
+  "4": {
+    "R1": 2,
+    "R1_justification": "After a resolved concert disagreement (factual), discloses genuine reluctance about therapy: 'I don't want to do it because I don't want to speak to another person about my problems', a sensitive topic plus inner-state resistance (turns ~02:41-03:37).",
+    "R2": 4,
+    "R2_justification": "Engages with her own discomfort opening up and what would make her comfortable, but stated plainly rather than rawly exposed.",
+    "topic_sensitivity": "High",
+    "disclosure_start": "02:41 'I am trying to go to a therapist... I feel like I don't want to do it because I don't want to speak to another person about my problems'"
+  },
+  "14734": {
+    "R1": 2,
+    "R1_justification": "Recounts disagreement with football trainer after injury recovery; names disappointment ('which really disappointed me') and reflects on his own reaction - 'objectively yes, subjectively no, of course I want to play... there is sort of a competition' (chat ~10:05-10:08 AM).",
+    "R2": 4,
+    "R2_justification": "Emotion named and explored via genuine self-reflection on his competitive drive, but analytical and composed.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "10:05 AM 'a little discussion with my football trainer... he told me that i need some time which really disappointed me'"
+  }
+}

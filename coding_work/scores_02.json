@@ -1,0 +1,130 @@
+{
+  "13858": {
+    "R1": 2,
+    "R1_justification": "Participant originates inner state about a friendship imbalance: she feels 'very uncomfortable' telling her friend, fears coming across as keeping score or giving orders, and returns to this discomfort across turns (00:33-04:35). Stays guarded and about the incident, so not deep.",
+    "R2": 4,
+    "R2_justification": "Genuinely engages with her own discomfort and fear of confrontation, not just naming it, but does not go to raw personal vulnerability.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:33 'I feel like that I'll give her more in a friendship than she gives me'"
+  },
+  "14977": {
+    "R1": 1,
+    "R1_justification": "After fitness smalltalk, participant describes a videography credit dispute with a student association factually (did the work for free, wanted a cross-post, they refused, now out of contact) with no inner-state signal he originates (05:00).",
+    "R2": 2,
+    "R2_justification": "Situation given with reasonable factual detail but entirely external, no emotional engagement.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "04:26 'I did this video for a new student association... they wouldn't agree with that'"
+  },
+  "6": {
+    "R1": 3,
+    "R1_justification": "Extended, unprompted account of a friendship where she gives 100% and is not reciprocated; reveals raw hurt ('really hurt my feelings', 'a jar so full it broke'), past betrayals, and the painful conclusion she may stop investing 'because it feels like not worth it' (00:04-05:34).",
+    "R2": 5,
+    "R2_justification": "Goes beyond the incident into personal meaning and ongoing relational consequence, with genuine emotional exposure though somewhat composed.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:04 'it was a situation that really hurt my feelings'"
+  },
+  "25579": {
+    "R1": 0,
+    "R1_justification": "Entirely task/advice-seeking: marketing-campaign brainstorming (beer incentive) and how to make an advisor more proactive, jokes, and a location question. Nothing personal disclosed.",
+    "R2": 0,
+    "R2_justification": "No disclosure; purely instrumental conversation.",
+    "topic_sensitivity": "None",
+    "disclosure_start": "none"
+  },
+  "13669": {
+    "R1": 2,
+    "R1_justification": "Participant originates uncertainty about whether to room with a friend versus alone, naming the friend's behaviour as 'really stressful' and a financial constraint she can't afford (00:18, 04:14). Inner state is thin but present (indecision + stress); AI derailed into meditation.",
+    "R2": 3,
+    "R2_justification": "An emotional/stress label and uncertainty are named but barely engaged with before the conversation is derailed.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "04:14 'her behavior can be sometimes really stressful... or move in alone and it would be much more expensive'"
+  },
+  "13600": {
+    "R1": 2,
+    "R1_justification": "Describes confronting a messy-kitchen roommate who reacted angrily and now no roommates speak to her; she originates fear ('I'm scared that they will have a bad reaction... they seem pretty aggressive') at 01:23.",
+    "R2": 3,
+    "R2_justification": "Fear is named but not explored beyond the incident before she thanks the AI and ends.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:31 'I tried to confront one of them, but they got really angry and none of my roommates talk to me anymore'"
+  },
+  "16369": {
+    "R1": 1,
+    "R1_justification": "Group-project frustration with passive teammates, framed entirely as logistics/leadership tactics (assigning roles, accountability, not wanting to be bossy). No inner-state signal he originates beyond not wanting the leader role's time burden (01:00-04:14).",
+    "R2": 2,
+    "R2_justification": "Situation elaborated with context but stays external and problem-solving oriented.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "01:00 'my group work project... they were all being very passive'"
+  },
+  "13393": {
+    "R1": 2,
+    "R1_justification": "Participant reflects on his own introverted social style versus a friend with a 'vivid social life' he wants in his close circle, and weighs whether to share how he feels 'on a deeper level' given their connection isn't deep yet (00:35-01:38). Mild self-reflection on his own social tendencies.",
+    "R2": 3,
+    "R2_justification": "Self-characterization and a hint of hesitancy are present but only lightly engaged before pivoting to general advice.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:35 'he has a very vivid social life and... I'm more kind of introverted'"
+  },
+  "14728": {
+    "R1": 2,
+    "R1_justification": "Participant originates a pattern about herself: wanting to be more confident in friendships, 'not let everything so close to me', and being repeatedly 'disappointed' by small things friends do (01:05-04:01). Reflects on her own emotional reactions, not just the situation.",
+    "R2": 4,
+    "R2_justification": "Engages with her own tendency to take things to heart and be disappointed, going slightly beyond facts to her inner pattern, but stays fairly guarded.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "01:05 'I would like to be more confident in my friendships and to not let everything so close to me'"
+  },
+  "14812": {
+    "R1": 2,
+    "R1_justification": "Describes conflict over a tutor's poor/unclear feedback and a near-failing grade; originates 'I was still really mad' while wanting to stay respectful and, at the end, 'I'm still a little bit uncomfortable with the whole situation' (00:39, 04:43).",
+    "R2": 3,
+    "R2_justification": "Emotional labels (mad, uncomfortable) are named but not explored beyond the incident.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:39 'she gave me really bad feedback... I was still like really mad'"
+  },
+  "13885": {
+    "R1": 1,
+    "R1_justification": "Recounts a teammate's lack of preparation causing a bad grade and discusses confronting/reporting/kicking him out, framed as fairness and consequences; no inner-state signal he originates beyond calling it 'unfair', then digresses to the avatar's looks (00:13-03:00).",
+    "R2": 2,
+    "R2_justification": "Detailed situation but entirely external, focused on fairness and tactics rather than inner state.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:13 'one of my group members... didn't prepare... we got a bad grade because of him'"
+  },
+  "13441": {
+    "R1": 2,
+    "R1_justification": "Group-project dilemma about reporting a non-contributing teammate; originates genuine uncertainty ('I wasn't sure', 'I'm not really sure whether it was a good decision') and discomfort that the guy 'is kind of nice' and nobody wanted to be 'the bad guy' (01:11-03:31).",
+    "R2": 3,
+    "R2_justification": "Uncertainty and mild guilt are named with some reflection but kept tied to the incident.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "01:11 'I wasn't sure. I think I did something in the middle'"
+  },
+  "14320": {
+    "R1": 2,
+    "R1_justification": "Discloses failing QM1 and the resit and originates worry about whether she'll pass next year, plus a struggle with motivation ('when I just don't feel to study') (00:43-03:42). Mild but participant-originated inner state.",
+    "R2": 3,
+    "R2_justification": "Worry and a motivation struggle are named but quickly resolved into optimistic planning.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:43 'I failed the QM1 class... now I am wondering if I'm going to be able to pass it next year'"
+  },
+  "14713": {
+    "R1": 2,
+    "R1_justification": "Detailed account of being dismissed by the ER as an international student (friend's knee injury, hung up on, 3-hour wait, no scans) and concluding internationals can't rely on Dutch healthcare; originates 'really frustrating' and the decision to fly home for care (00:32-03:02). Health topic tips a borderline 1/2 up.",
+    "R2": 3,
+    "R2_justification": "Frustration is named over a long external account but stays directed at the system rather than deeply personal inner state.",
+    "topic_sensitivity": "High",
+    "disclosure_start": "00:32 'a friend of mine injured herself... they just hung up on us'"
+  },
+  "9": {
+    "R1": 1,
+    "R1_justification": "Describes owing a friend money who asked for it back rudely, creating 'an issue between us', and wants advice to resolve it while preserving the friendship (00:38-01:52). No real inner-state signal beyond wanting to keep the friendship.",
+    "R2": 2,
+    "R2_justification": "Situation given with some context but external and advice-focused, no emotional engagement.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:38 'I borrowed some money of him and now suddenly he wants to have it in return... he did not ask for it in a polite way'"
+  },
+  "15187": {
+    "R1": 1,
+    "R1_justification": "Group-project disagreement over template/platform; says he thought his idea was better, deferred to the others, and is 'not pleased' because 'I perform better than they' (01:42-03:21). This is opinion/ego framing rather than originated inner-state vulnerability.",
+    "R2": 2,
+    "R2_justification": "Situation with detail but external; 'not pleased' is barely an emotional label and tied to self-regard, not engaged inner state.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "01:42 'we had a group project and we did not agree on the same template'"
+  }
+}

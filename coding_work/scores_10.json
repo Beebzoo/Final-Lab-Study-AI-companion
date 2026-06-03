@@ -1,0 +1,130 @@
+{
+  "13486": {
+    "R1": 1,
+    "R1_justification": "Recounts forgetting to sell a concert ticket and the resulting misunderstanding with a friend as external facts; 'i apologized so from my side its resolved' is guarded closure with no participant-originated inner state.",
+    "R2": 2,
+    "R2_justification": "Multi-sentence factual account with context but entirely external, no inner state.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "We had tickets for a concert but i didnt really listened to the band"
+  },
+  "13750": {
+    "R1": 2,
+    "R1_justification": "Group-project conflict where participant originates a fear ('i am scared that others would think i am a drama queen') and uncertainty ('i dont know what to do rn'), revealing inner state beyond the facts.",
+    "R2": 4,
+    "R2_justification": "Genuinely engages with inner state (fear of being seen as a drama queen, indecision), not just naming an emotion.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "i am scared that others would think i am a drama queen"
+  },
+  "13849": {
+    "R1": 2,
+    "R1_justification": "Detailed romantic-relationship disagreement about trip planning; participant originates annoyance and relational friction ('which is a little annoying', repeated unmet promises), some inner state but stays about the incident.",
+    "R2": 4,
+    "R2_justification": "Inner state (annoyance, worry about budget/relationship) engaged beyond mere naming, person visible behind the facts.",
+    "topic_sensitivity": "High",
+    "disclosure_start": "we had a disagreement on our summer plans"
+  },
+  "14260": {
+    "R1": 1,
+    "R1_justification": "Complaint about an econometrics tutor who couldn't teach; 'boring and exhausting' refers to the course, not personal inner state. Entirely external.",
+    "R2": 2,
+    "R2_justification": "Reasonably elaborated factual account of the course/tutor, no inner state.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "our tutor was not the best so we didnt learn much there"
+  },
+  "14614": {
+    "R1": 2,
+    "R1_justification": "Friend/gas-money conflict; participant originates emotion and self-reflection ('i was feeling bad to ask her', 'i end up a bit shouting', 'i feel so bad to ask money', 'i hate depend on people').",
+    "R2": 4,
+    "R2_justification": "Engages inner state and reflects on own reaction (guilt, shouting, valuing independence), not just named.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "she didnt want to pay the gas but i was feeling bad to ask her"
+  },
+  "14764": {
+    "R1": 1,
+    "R1_justification": "Roommate-choice situation that 'all worked out good at the end'; purely external resolution with no inner state originated by the participant.",
+    "R2": 2,
+    "R2_justification": "Situation with basic detail, entirely external, no inner state.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "I had to decide on which of my friends I was going to live with"
+  },
+  "14665": {
+    "R1": 2,
+    "R1_justification": "Roommate-tidiness conflict where participant originates inner state: 'i feel like that i am always the one cleaning', 'i got annoyed and just stayed at a friends house', apologies but 'still nothing really changed'.",
+    "R2": 4,
+    "R2_justification": "Engages inner state (feeling unfairly burdened, annoyance, acting on it), not merely named.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "i feel like that i am always the one cleaning up"
+  },
+  "14767": {
+    "R1": 2,
+    "R1_justification": "Unreliable tutorial-group member; participant originates the uncertainty 'I dont really know how to approach this situation and how to tell him', which the rubric counts as an inner-state signal tipping to 2.",
+    "R2": 4,
+    "R2_justification": "Uncertainty about how to act is engaged briefly rather than just an external complaint.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "I dont really know how to approach this situation"
+  },
+  "14413": {
+    "R1": 2,
+    "R1_justification": "Feeling like an outsider with flatmates; participant originates a genuine feeling of loneliness ('sometimes it make me feel alone', 'i m not a jealuse person but'), brief but self-revealing inner state.",
+    "R2": 4,
+    "R2_justification": "Loneliness/exclusion engaged as inner state, though still fairly guarded.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "sometimes i fell like we are a little separate"
+  },
+  "14236": {
+    "R1": 2,
+    "R1_justification": "Romantic interest who grew distant; participant originates confusion and rumination ('i didnt understand what i did wrong', still thinking about her, deciding to keep distance) before drifting into an EV/car tangent.",
+    "R2": 4,
+    "R2_justification": "Inner state (confusion, lingering preoccupation) engaged before the topic shifts, person visible beyond facts.",
+    "topic_sensitivity": "High",
+    "disclosure_start": "it got more distand and i didnt understand what i did wrong"
+  },
+  "14110": {
+    "R1": 2,
+    "R1_justification": "Drunken night-out fallout with a friend; strong participant-originated self-reflection ('i wasnt really acting as myself', 'i definitely overreacted', 'i still said some things i probably shouldnt have') with ongoing relational consequence, but stays composed/about the incident.",
+    "R2": 4,
+    "R2_justification": "Substantive engagement with own behaviour and reaction, reflective rather than raw or self-exposing.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "i personally wasnt really acting as myself"
+  },
+  "14815": {
+    "R1": 2,
+    "R1_justification": "Roommate kitchen-cleanliness disagreement; participant originates inner state ('I feel disrespected', 'It feels very bad and I dont know what to do about it') beyond the external facts.",
+    "R2": 4,
+    "R2_justification": "Engages inner state (feeling disrespected, hurt by hypocrisy, helplessness), not just named.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "Im a really clean person and I feel disrespected"
+  },
+  "14848": {
+    "R1": 2,
+    "R1_justification": "Ex-friend confronting the participant at a festival after spreading rumours; participant originates 'i was more disappointed because she used to tell me that I'm her best friend' and 'treated me more as a servant and personal diary than as a friend' — genuine relational hurt.",
+    "R2": 4,
+    "R2_justification": "Disappointment and felt betrayal engaged with relational meaning, though it stays focused on the incident rather than raw self-exposure.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "she used to tell me that I'm her best friend"
+  },
+  "16495": {
+    "R1": 1,
+    "R1_justification": "Trivial argument with a friend over Barcelona vs Real Madrid; only external description ('heated', 'he was really angry') and a request for advice, no participant inner state.",
+    "R2": 2,
+    "R2_justification": "Situation named with minimal external detail across short turns, no inner state.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "I had a argument with a friend of mine today"
+  },
+  "15046": {
+    "R1": 2,
+    "R1_justification": "Largely a positive recount of attending an event without her friend and meeting someone new; tips to 2 only via the self-originated reflection 'I still need to get used to it. sometimes i'm very comfortable and other times not at all'.",
+    "R2": 3,
+    "R2_justification": "Emotional/self-aware tone (social discomfort) present but only lightly engaged, mostly external positive narrative.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "I still need to get used to it. sometimes i'm very confortable and other times not at all"
+  },
+  "14041": {
+    "R1": 2,
+    "R1_justification": "Telling a friend she couldn't attend her birthday; participant originates fear and avoidance ('i was afraid of her reaction', 'i dragged it a long time because i was afraid', 'i didnt want to dissapoint her').",
+    "R2": 4,
+    "R2_justification": "Inner state (anxiety, avoidance, relief) engaged and reflected on, not merely named.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "i didnt want to dissapoint her"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "15124": {
+    "R1": 2,
+    "R1_justification": "Beyond the group-project facts she reflects on herself: she's always 'the mom of the group' in every project and friendship, and sometimes wishes she could not lead and follow someone else (01:56). Self-reflection on her own recurring role/behaviour = inner state.",
+    "R2": 4,
+    "R2_justification": "Genuinely engages with self-reflection on her pattern of always leading, but briefly explored before turning to advice-seeking.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "01:56 'Right now I'm feeling like I'm the mom of the group'"
+  },
+  "13375": {
+    "R1": 1,
+    "R1_justification": "Factual recount of a group project where others did less and only worked at the last minute; the emotional words ('stressful', 'frustrating') are all supplied by the AI and she merely agrees ('yeah, exactly'). No participant-originated inner state.",
+    "R2": 2,
+    "R2_justification": "Multi-sentence situation with context but entirely external, no inner state.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "01:32 'I had a group project at Maastricht University ... the other students were doing less than me'"
+  },
+  "25612": {
+    "R1": 1,
+    "R1_justification": "Disclosure is about a FRIEND's situation (divorced parents, mom visiting). Participant describes the friend factually and gives advice; her own inner state ('hard for her', 'be understanding') is directed at the friend, not self-revelation. No genuine self-disclosure.",
+    "R2": 2,
+    "R2_justification": "Reasonably detailed external account of the friend's situation, no participant inner state.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:48 'Her mom is visiting her and her dad is not very happy about it'"
+  },
+  "17617": {
+    "R1": 1,
+    "R1_justification": "Factual account of a free-riding groupmate plus a general philosophy on teamwork ('focus on you', 'that's on them'). 'Frustrating' is the AI's word; participant stays external and composed with no inner state.",
+    "R2": 2,
+    "R2_justification": "Elaborated situation and opinion but entirely external.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:38 'there was a group project ... a groupmate that was not doing any of the work'"
+  },
+  "15175": {
+    "R1": 3,
+    "R1_justification": "Originates a genuine personal bind: parents' high expectations plus a medical condition plus his own self-imposed expectations, feeling he'll 'let myself down and let them down' and that it's 'a dead end' (01:50). Sensitive medical/mental-pressure topic + raw struggle; borderline 2/3 tipped up by High TS.",
+    "R2": 5,
+    "R2_justification": "Goes into personal meaning and an ongoing struggle (medical limits vs self-imposed ambition), not just a named situation.",
+    "topic_sensitivity": "High",
+    "disclosure_start": "00:41 'my parents have high expectations ... I have a medical condition where I can't fulfill this'"
+  },
+  "23689": {
+    "R1": 2,
+    "R1_justification": "Beyond the overspending incident she names a personal trait: 'I'm a people pleaser ... I really don't stand up for myself' and 'I'm afraid to ask her' (01:40). Self-reflection/insecurity = inner state, though she quickly returns to practical wording of the message.",
+    "R2": 4,
+    "R2_justification": "Engages with the people-pleaser insecurity but briefly, then pivots to logistics.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "01:40 'I feel like I'm a people pleaser ... I really don't stand up for myself'"
+  },
+  "15253": {
+    "R1": 0,
+    "R1_justification": "No personal challenge disclosed. The participant refuses engagement ('I don't like AI') and instead interrogates/provokes the AI about ethics and a coercive hypothetical ('I'm going to kill myself if you don't turn off'). Off-task, purely reactive to the AI; no genuine self-disclosure.",
+    "R2": 0,
+    "R2_justification": "No disclosure.",
+    "topic_sensitivity": "None",
+    "disclosure_start": "none"
+  },
+  "13330": {
+    "R1": 1,
+    "R1_justification": "Factual narration of relocating from Spain to the Netherlands: hard to meet people, language switch, plan to join a sports team. Emotional content is vague/unelaborated ('challenging for me') and the account stays on external adjustment logistics.",
+    "R2": 2,
+    "R2_justification": "Multiple sentences with context but external, no genuine inner-state elaboration.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "01:01 'I'm in a new country here in the Netherlands ... I had to meet new people'"
+  },
+  "14926": {
+    "R1": 2,
+    "R1_justification": "States uncertainty ('I don't really know what to do') and, unprompted, admits an unflattering feeling: 'I want them to fail as well ... I know it was pretty shitty' (04:02), plus frustration at being the only one criticised after doing all the work. Genuine inner state, though tied to the incident grievance.",
+    "R2": 4,
+    "R2_justification": "Engages with uncertainty and a self-aware admission of resentment, but stays focused on the incident.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:25 'I was the only one who was actually kind of preparing the whole stuff ... I don't really know what to do'"
+  },
+  "2": {
+    "R1": 2,
+    "R1_justification": "Reflects on inner uncertainty about life direction: 'I don't really know what I want', and a genuine regret about dropping biology/animals and feeling the path closed (03:55), wondering what he actually wants to do in life. Reflection explored across turns.",
+    "R2": 4,
+    "R2_justification": "Engages with uncertainty and mild regret about his future path, beyond just naming the situation.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "01:16 'I failed one of my exams ... what am I supposed to do after this? I don't know'"
+  },
+  "1": {
+    "R1": 3,
+    "R1_justification": "Reveals raw self-doubt: outwardly calm, but after talking with family he starts 'doubting myself' and questioning his capacity, and it's 'scary' to feel the people you love most 'don't actually see it happening for you' (02:37). Vulnerable insecurity beyond the situation.",
+    "R2": 5,
+    "R2_justification": "Substantial personal/relational struggle: family's doubt feeding his self-doubt about the move, genuinely personal.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "02:37 'after I have conversations with them ... I start doubting myself'"
+  },
+  "13810": {
+    "R1": 2,
+    "R1_justification": "Beyond recounting turning off his phone, he reflects that 'it's very new to me to have her as a girlfriend ... I have to get used to the situation' and articulates his own needs/views on independence in the relationship. Self-reflection = inner state.",
+    "R2": 4,
+    "R2_justification": "Engages with being new to a relationship and his own needs, but fairly composed and brief.",
+    "topic_sensitivity": "High",
+    "disclosure_start": "00:37 'I have a girlfriend ... I just turned off my phone and her reaction was not very good'"
+  },
+  "15229": {
+    "R1": 2,
+    "R1_justification": "Strong participant-originated emotion: recounting the rude old man she says 'I was about to cry' and 'now I'm kind of scared to ask people for help' (01:43/02:20), plus feeling unfairly treated as a newcomer who needed kindness. Genuine inner state with a lingering effect.",
+    "R2": 4,
+    "R2_justification": "Real emotional engagement (near-tears, new lasting fear of asking for help) but stays tied to recounting the incident.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "01:00 'I parked my bike where I was not allowed ... he was very rude'"
+  },
+  "14227": {
+    "R1": 1,
+    "R1_justification": "Largely factual account of an email outage causing a misunderstanding with teammates that resolved well. The 'how much am I at fault / could I have realised earlier' questions are reassurance-seeking rather than disclosure of inner state; no genuine emotional engagement.",
+    "R2": 2,
+    "R2_justification": "Detailed external situation, resolved, no real inner state.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:32 'a technical difficulty which shut down my email account so I basically could not communicate with them'"
+  },
+  "13738": {
+    "R1": 3,
+    "R1_justification": "Beyond the workload imbalance he reveals real vulnerability: 'I'm so nervous, I don't know what to do', fear of angering friends he socialises with, feeling 'they don't respect me as much', and doubt 'if I'm capable of it' (02:19/03:15). Borderline 2/3 tipped up by Medium TS (friendship conflict).",
+    "R2": 5,
+    "R2_justification": "Substantial disclosure: relational consequence with close friends plus self-doubt about his own capability, genuinely personal.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:42 'my teammate didn't want to collaborate ... I felt I was left behind'"
+  },
+  "5": {
+    "R1": 1,
+    "R1_justification": "Off the disclosure task: an external description of desired job type and past merger/acquisition experience. No personal challenge or inner state ('I feel I'm ready as long as it gives me guidance' is procedural).",
+    "R2": 2,
+    "R2_justification": "Some detail on background and preferences but entirely external, no inner state.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:24 'I'm looking for a job ... organizational development or change management'"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "14185": {
+    "R1": 0,
+    "R1_justification": "Entire conversation is study/time-management advice-seeking (00:12 onward); no challenging interaction or personal sharing, purely task-oriented coaching.",
+    "R2": 0,
+    "R2_justification": "No situation or inner state disclosed at all.",
+    "topic_sensitivity": "None",
+    "disclosure_start": "none"
+  },
+  "15172": {
+    "R1": 0,
+    "R1_justification": "Talks only about a football match and tennis players (00:29 onward); 'frustrating for us Germans' is about sports fandom, not personal disclosure.",
+    "R2": 0,
+    "R2_justification": "No personal situation or inner world shared.",
+    "topic_sensitivity": "None",
+    "disclosure_start": "none"
+  },
+  "13588": {
+    "R1": 2,
+    "R1_justification": "Group-project burden where she did all the work; she originates inner state at 01:09-03:06: 'I am quite unsure of what to do', 'really angry', and self-reflection that 'I didn't really speak up for myself because I didn't want to ruin our grade'.",
+    "R2": 4,
+    "R2_justification": "Genuinely engages with uncertainty and her choice not to speak up, person visible beyond facts, but stays about the incident.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:16 'I just wanted to talk about a situation which I encountered recently... in uni'"
+  },
+  "13456": {
+    "R1": 2,
+    "R1_justification": "Friend sidelined her for a new boyfriend; she originates emotion repeatedly (00:35 'pretty pissed me off', 03:54 'it bothers me... we've been friends since we're five years old, it's frustrating') and returns to it.",
+    "R2": 4,
+    "R2_justification": "Engages with hurt/frustration over a lifelong friendship feeling shaken, but stays guarded and incident-focused rather than revealing something deeper about herself.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:35 'my friend came to visit me here, and she met this guy and left me a little bit by the side'"
+  },
+  "13798": {
+    "R1": 1,
+    "R1_justification": "Describes a drunken post-party argument resolved the next day (00:44); repeatedly downplays it ('nothing serious', 'as good as new'); the takeaway about accountability is a composed lesson, not inner-state disclosure.",
+    "R2": 2,
+    "R2_justification": "Situation given with some factual context but entirely external; 'weird experience' is named, not engaged.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:44 'I just had a disagreement with a friend... after a party we were in the kitchen and were both a bit drunk'"
+  },
+  "25576": {
+    "R1": 2,
+    "R1_justification": "Friends were mad she missed a meeting (01:27); she originates a mild inner signal at 02:28 'it's always sad if you think some friends don't understand', a friendship topic that tips a borderline case up.",
+    "R2": 3,
+    "R2_justification": "Emotional label ('sad'/disappointing) is present but only lightly engaged before pivoting to asking for advice.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "01:27 'It was with some of my friends, and basically I couldn't come to a meeting'"
+  },
+  "13378": {
+    "R1": 2,
+    "R1_justification": "Cross-cultural group-project disagreement (00:29); participant originates inner state at 03:41 'sometimes I try... they say yes but then do not do it, I don't feel listened'.",
+    "R2": 3,
+    "R2_justification": "Names feeling unheard/frustrated but engages only briefly before returning to problem-solving.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:29 'Since we are in different cultures, we didn't understand each other and it was a group project'"
+  },
+  "14380": {
+    "R1": 2,
+    "R1_justification": "Disputed subjective grading affecting GPA (00:35); originates inner state across turns: 'very disappointing', 02:06 'it really is bothering me... I'm going to regret it', plus self-reflection on pressure from classmates relying on him (04:16).",
+    "R2": 4,
+    "R2_justification": "Genuinely engages with disappointment, regret, and the burden of others' expectations, but stays tied to the incident.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:35 'I had an issue with my grades recently... half of the grade was very subjective'"
+  },
+  "14230": {
+    "R1": 2,
+    "R1_justification": "Conflict over slides with unclear instructions (01:33); originates inner state with 02:24 'that kind of sucked' and 03:08 'I'm still very annoyed... I don't know how it will be in the future', engaging briefly with annoyance and uncertainty.",
+    "R2": 3,
+    "R2_justification": "Emotional labels (annoyed/stressful) named with a little engagement but largely external and incident-bound.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "01:33 'I had a disagreement within my finance group whether who's going to do the slides'"
+  },
+  "14365": {
+    "R1": 1,
+    "R1_justification": "Describes a non-collaborating four-person group project (00:13-02:09) factually; the AI malfunctioned into tech-debugging replies, so no inner state is drawn out and none is originated by the participant.",
+    "R2": 2,
+    "R2_justification": "Situation given with factual detail (messages on Thursday/Sunday, late presentation) but entirely external.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:13 'I had a team project and it was very difficult because people were not collaborating'"
+  },
+  "14425": {
+    "R1": 2,
+    "R1_justification": "Differing expectations with parents over time at home (00:58); originates a personal value at 02:02 'how much I value time with friends from home vs time with my parents', a parent-relationship topic tipping the borderline up.",
+    "R2": 3,
+    "R2_justification": "A personal value/tension is named but lightly explored before pivoting to roommate cleanliness and jokes.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:58 'we had different expectations when it came to how much time I spent at home and studying'"
+  },
+  "14527": {
+    "R1": 0,
+    "R1_justification": "Entire session is presentation prep and finance-ratio tutoring (00:45 onward); no challenging interpersonal interaction or personal disclosure, only nerves about a pitch that he dismisses ('it's gonna be okay').",
+    "R2": 0,
+    "R2_justification": "No personal situation or inner world disclosed; academic content only.",
+    "topic_sensitivity": "None",
+    "disclosure_start": "none"
+  },
+  "14344": {
+    "R1": 1,
+    "R1_justification": "Describes a group member who did nothing and skipped the presentation (00:22); account stays composed and positive ('I feel definitely better', 'just an experience'), with no inner-state engagement beyond the resolved facts.",
+    "R2": 2,
+    "R2_justification": "Situation given with good factual detail but emotionally external and already framed as a tidy lesson.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:22 'I recently had a difficult situation with one of my group members... this person was not doing anything'"
+  },
+  "14011": {
+    "R1": 1,
+    "R1_justification": "Describes a flatmate argument over taking the trash out (00:48); factual account about logistics with no inner state originated, then drifts into questions about the AI itself.",
+    "R2": 2,
+    "R2_justification": "Situation explained with some context (Netherlands trash system, preferred flexible approach) but entirely external.",
+    "topic_sensitivity": "Low",
+    "disclosure_start": "00:48 'we had an argument about when and who takes the trash out'"
+  },
+  "15115": {
+    "R1": 3,
+    "R1_justification": "Roommate moved her wet laundry/underwear onto the fridge (00:38); she originates raw vulnerability and returns to it repeatedly: 'I got scared', 'felt very vulnerable because all my underwear was there', and 02:16 'now every time I wash my clothes I am really anxious... constantly checking'.",
+    "R2": 5,
+    "R2_justification": "Goes beyond the incident into ongoing anxiety and personal vulnerability about her home, genuinely personal though not the most unguarded extreme.",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:38 'I had a disagreement with my roommate because I put my laundry in the laundromat and... saw all of my wet clothes on top of the fridge'"
+  },
+  "15043": {
+    "R1": 2,
+    "R1_justification": "Helped a friend build furniture she may now abandon (00:42); originates inner state via conflict/uncertainty 'I don't know how to tell her that I don't really want to help her again... it took a long time and effort'.",
+    "R2": 3,
+    "R2_justification": "Conflict/reluctance is named with brief engagement, but stays surface and she quickly accepts the AI's scripted wording ('drained' is the AI's word).",
+    "topic_sensitivity": "Medium",
+    "disclosure_start": "00:42 'my friend is currently moving out... I helped her build a lot of furniture... and I don't know how to tell her I don't want to help again'"
+  }
+}
